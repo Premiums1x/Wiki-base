@@ -18,7 +18,7 @@
 - **成效**：重新编译后，数据库关系连线从 **0 条爆发增长至 46 条**，Web 端的力导向图谱完整连通。
 
 #### 编译成功启动sage-wiki的web端效果：
-![image](../my-wiki/assets/image.png)
+![image](./assets/image.png)
 
 ### 2. ⚙️ 配置模型与 API Key（优化响应速度与稳定性）
 - **安全配置**：配置 `config.yaml` 动态读取系统级环境变量 `${SILICONFLOW_API_KEY}`，避免 API 密钥硬编码泄露。
