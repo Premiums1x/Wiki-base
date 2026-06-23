@@ -39,3 +39,5 @@
 *   **PyTorch**：目前最流行的学术界和工业界深度学习框架，由 Meta 开源，支持动态计算图。
 *   **TensorFlow**：Google 开发的另一款工业级深度学习框架。
 *   **Hugging Face (Transformers 库)**：NLP 领域的“应用商店”，集成了大量预训练好的开源模型。
+
+<!-- edit for incremental compile test -->

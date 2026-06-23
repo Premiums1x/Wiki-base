@@ -1,10 +1,10 @@
 ---
 concept: machine-learning
 entity_type: concept
-aliases: ["ml"]
+aliases: ["机器学习"]
 sources: ["raw\\ai_machine_learning.md"]
 confidence: high
-created_at: 2026-06-23T04:11:48Z
+created_at: 2026-06-23T06:32:53Z
 ---
 
 ## Definition
@@ -35,23 +35,23 @@ In supervised learning, the dataset is labeled with the correct answers for the 
 Unsupervised learning deals with data that has no known labels. The goal is to analyze the features of the input data and find hidden patterns, such as through clustering or dimensionality reduction techniques.
 
 #### Semi-Supervised Learning
-This approach attempts to use a small amount of labeled data and a large amount of unlabeled data for training the model. It builds on machine learning by leveraging both labeled and unlabeled data to improve learning results.
+This approach attempts to use a small amount of labeled data and a large amount of unlabeled data for training the model. Semi-supervised learning builds on machine learning by leveraging both labeled and unlabeled data to improve learning results and can help mitigate the high cost and time required to prepare labeled data.
 
 #### Reinforcement Learning
-Reinforcement learning is a type of ML where an agent learns to make decisions by taking actions in an environment to achieve a goal. The agent receives rewards or penalties for specific actions.
+Reinforcement learning is a type of ML where an agent learns to make decisions by taking actions in an environment to achieve a goal. The agent receives rewards or penalties for specific actions. This type of learning mimics how humans and animals learn through trial and error.
 
 ## Variants
 Machine Learning encompasses a variety of techniques:
 
-- Traditional Machine Learning: includes decision trees, random forests, SVM, and others which treat data in a structured manner and are often mathematically derived solutions.
+- Traditional Machine Learning: includes decision trees, random forests, support vector machines (SVM), and others which treat data in a structured manner and are often mathematically derived solutions. These methods are widely utilized in solving a broad range of problems from classification and regression to clustering.
 
-- Deep Learning: builds on neural networks and specifically artificial neural networks (ANN), which simulate the human brain's neural activity. Techniques like convolutional neural networks (CNN), long short-term memory (LSTM) networks, and the transformer architecture, which is relativelift-optimized, dominate this field.
+- Deep Learning: builds on [[neural-networks]] by simulating the human brain's neural activity. Deep learning techniques like convolutional neural networks (CNN), long short-term memory (LSTM) networks, and the transformer architecture, which possesses specialized attention mechanisms, dominate this field by allowing complex pattern recognition in high-dimensional data spaces.
 
-- Large Language Models (LLMs): These are deep learning models with billions of parameters, trained on vast amounts of text data. They are enhanced through fine-tuning and retrieval-augmented generation (RAG), an approach that requires external knowledge bases.
+- Large Language Models (LLMs): These are deep learning models with billions of parameters, trained on vast amounts of text data. Techniques like fine-tuning and retrieval-augmented generation (RAG) are implemented to improve the model's performance on specific tasks and integrate it with external knowledge bases, enhancing their capabilities.
 
 ## Trade-offs
 Machine Learning models require a significant amount of high-quality data, computational power, and time to train effectively. One major trade-off with ML is the balance between model performance and complexity. More complex models, while potentially offering higher accuracy, also risk overfitting, where the model performs well on training data but poorly on unseen data. 
 
 Another significant trade-off is the reliance on labeled data in supervised learning, which can be costly and time-consuming to prepare. Moreover, the interpretability of the model can be low, especially with deep learning models, making it difficult to understand the reasoning behind the model's predictions. 
 
-Machine Learning also depends on a robust data cleaning and preprocessing pipeline, which can be a bottleneck in practical applications.
+Machine learning also depends on a robust data cleaning and preprocessing pipeline, which can be a bottleneck in practical applications. Furthermore, the scalability and real-time performance of ML models are affected by the computational complexity and efficiency of the algorithms used, which [[neural-networks]] can optimize but at the cost of increased complexity and potential overfitting.

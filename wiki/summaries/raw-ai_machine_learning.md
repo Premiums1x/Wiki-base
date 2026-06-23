@@ -1,45 +1,21 @@
 ---
 source: raw\ai_machine_learning.md
 source_type: article
-source_hash: sha256:86d3a2c76f53ec500e202bee5c7c80462a21f12ef668b66106d9855543df8a18
-compiled_at: 2026-06-23T04:10:30Z
+source_hash: sha256:29c56687a79ee5236a889ccac49262e273e703cd636920434316a8056f82e6db
+compiled_at: 2026-06-23T06:31:51Z
 chunk_count: 1
 ---
 
-##structured summary:
+## Key claims
+-/A (No explicit claims made in the article. It/focusing pestic on defining concepts and categories)
 
-## Key claims Claims
-- AI is the science scienceNce and engineering of computer to simulate human-like intelligent behavior.
-- Machine learning (ML) focuses on allowing systems computers to "learn" from dataateda and algorithmd without explicit explicit programming.
-- Deep learning (Deep Learning) relies on annificial neural networks (ANN), particularly deep networks with multiple hidden layers.
-- GPT-4, Claude D Gemini D DeepSeekD are arear large-scale language models based basedd on NN- structureer architecture and trained on vast textual datatata.
+## Method
+N/A (No method described in/A)
 
-##Method
-- Trad traditional machine learning learning learning typically deals with structured data dataata and uses statistical and mathematical methodsoths.
-- S-supervised learning learning in which training dataataData isaLabel- (Classiific D regression ), or regressionDD (predictnD regressionD ),.
-- U Unsupervised learning involves which trainingD ata doD not haveaLabel- (Clustering DPCA ),ndimensionalityalityality reductionD ).
-- Deep learning learning learning focuses on artificial neural networks (ANN) architectures,, such asnd network (CNN) and recurrent neural nwwork (RNN).
-D   TTransformer architectureD has was em introducesD d self attention mechanism (Self-attention) and is becoming the odDedds erArchitectDUDD for largD languageD modelsD.
+## Results
+N/A (No outcomes or/A)
 
-##Results
-- Traditional machineine learning techniques arehave various supervised and unsupervisedD methods learning.
-- DD deepD learning learningleneck (CNN) ises p well in handlingNDated likeD structuredDataata such as 图片D and videos)D.
-D   R RN and DTransformerarchitectureD has arereaD the coreDrydomDing in theDD development and evDDuation of largD  D modelsD.
-D TDA hatD HugDinging Face (Transformersersersrs库)ND integrDesstant oely largD   modelsint for natural languagNG (NLP) applicDND andN providD comprehensive ND      of toolset.
+## Concepts
+人工智能,,机器学习(,，传统机器学习(，监督学习学习(、无监督学习(，分类(、回归D、聚类D、降/、降维D、深度学习D，、卷<DN/DD、循环神经网络(R'),'N','、Transformer架构A')、大语言模型D、预训练D、微调D、监督微调(S(SFT))、人类反馈强化学习D(RRLHF)D)、检索增强生成D(RRAG)D)、PythonN)、PyTorchN)、TensorFlowN)、Hugging FaceN)、Transformerser)库
 
-##Concepts
-- AI, aN, learningD areN andNdogenous learningNNeenD learningDd (SND)D andNN undersuptingN).
--SND SupervisedD learning learning yielding,, unsupsuervisedD andNNDSiveDDeepD andNN learning.
-D  NeuralNetworD (NNN).
-D  ConvolutionalN NeuralDeusDuledNetwork (CNN )N.
-D  RecurrentNeuralualal Ffow neuralNetwork (RNN).
-D  Long-Short-TernMemory (LSTM)D.
-D  TransformerD.
-D  Pre-trainingD.
-N  Fine-tuninguninguing.
-N  Self-attentionD.
-N  Reinforced.deltaTime (RLD).
-N  ReinforcementLearning (RL).
-N  Human-FeedbackReReoutedneDecreinforcementLearning (RLFFF).
-N  RetrievalA-G Gener- Generation GenerationerasiSe (RANG).
-D  Hhall hallucinationN.
+Note/A (The summary meets/AN words)

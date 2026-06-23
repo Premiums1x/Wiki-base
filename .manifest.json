@@ -2,11 +2,11 @@
   "version": 2,
   "sources": {
     "raw\\ai_machine_learning.md": {
-      "hash": "sha256:86d3a2c76f53ec500e202bee5c7c80462a21f12ef668b66106d9855543df8a18",
+      "hash": "sha256:29c56687a79ee5236a889ccac49262e273e703cd636920434316a8056f82e6db",
       "type": "article",
       "size_bytes": 3038,
       "added_at": "2026-06-23T04:10:36Z",
-      "compiled_at": "2026-06-23T04:10:36Z",
+      "compiled_at": "2026-06-23T06:31:51Z",
       "summary_path": "wiki\\summaries\\raw-ai_machine_learning.md",
       "status": "compiled"
     },
@@ -112,12 +112,33 @@
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
     },
+    "artificial-intelligence": {
+      "article_path": "wiki\\concepts\\artificial-intelligence.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
     "bigdata": {
       "article_path": "wiki\\concepts\\bigdata.md",
       "sources": [
         "raw\\data_science_bigdata.md"
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
+    },
+    "classification": {
+      "article_path": "wiki\\concepts\\classification.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
+    "clustering": {
+      "article_path": "wiki\\concepts\\clustering.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "coap": {
       "article_path": "wiki\\concepts\\coap.md",
@@ -132,6 +153,13 @@
         "raw\\devops_cloud.md"
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
+    },
+    "convolutional-neural-network": {
+      "article_path": "wiki\\concepts\\convolutional-neural-network.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "cors": {
       "article_path": "wiki\\concepts\\cors.md",
@@ -194,7 +222,7 @@
       "sources": [
         "raw\\ai_machine_learning.md"
       ],
-      "last_compiled": "2026-06-23T04:11:36Z"
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "devops": {
       "article_path": "wiki\\concepts\\devops.md",
@@ -202,6 +230,13 @@
         "raw\\devops_cloud.md"
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
+    },
+    "dimensionality-reduction": {
+      "article_path": "wiki\\concepts\\dimensionality-reduction.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "edge-computing": {
       "article_path": "wiki\\concepts\\edge-computing.md",
@@ -230,6 +265,13 @@
         "raw\\backend_roadmap.md"
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
+    },
+    "fine-tuning": {
+      "article_path": "wiki\\concepts\\fine-tuning.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "flexbox": {
       "article_path": "wiki\\concepts\\flexbox.md",
@@ -307,6 +349,20 @@
         "raw\\cybersecurity.md"
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
+    },
+    "hugging-face-library": {
+      "article_path": "wiki\\concepts\\hugging-face-library.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
+    "human-feedback-reinforcement-learning": {
+      "article_path": "wiki\\concepts\\human-feedback-reinforcement-learning.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "iaas": {
       "article_path": "wiki\\concepts\\iaas.md",
@@ -411,7 +467,7 @@
       "sources": [
         "raw\\ai_machine_learning.md"
       ],
-      "last_compiled": "2026-06-23T04:11:36Z"
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "mapreduce": {
       "article_path": "wiki\\concepts\\mapreduce.md",
@@ -476,12 +532,15 @@
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
     },
+    "nextjs": {
+      "article_path": "wiki\\concepts\\nextjs.md",
+      "sources": null,
+      "last_compiled": "2026-06-23T06:26:40Z"
+    },
     "nodejs": {
       "article_path": "wiki\\concepts\\nodejs.md",
-      "sources": [
-        "raw\\backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T04:11:36Z"
+      "sources": null,
+      "last_compiled": "2026-06-23T06:20:41Z"
     },
     "osi-model": {
       "article_path": "wiki\\concepts\\osi-model.md",
@@ -504,12 +563,33 @@
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
     },
+    "pretraining": {
+      "article_path": "wiki\\concepts\\pretraining.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
     "python": {
       "article_path": "wiki\\concepts\\python.md",
       "sources": [
         "raw\\backend_roadmap.md"
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
+    },
+    "python-language": {
+      "article_path": "wiki\\concepts\\python-language.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
+    "pytorch-library": {
+      "article_path": "wiki\\concepts\\pytorch-library.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "rdd": {
       "article_path": "wiki\\concepts\\rdd.md",
@@ -532,6 +612,13 @@
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
     },
+    "recurrent-neural-network": {
+      "article_path": "wiki\\concepts\\recurrent-neural-network.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
     "redis": {
       "article_path": "wiki\\concepts\\redis.md",
       "sources": [
@@ -539,12 +626,26 @@
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
     },
+    "regression": {
+      "article_path": "wiki\\concepts\\regression.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
     "restful-api": {
       "article_path": "wiki\\concepts\\restful-api.md",
       "sources": [
         "raw\\fullstack_integration.md"
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
+    },
+    "retrieval-augmented-generation": {
+      "article_path": "wiki\\concepts\\retrieval-augmented-generation.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "rtos": {
       "article_path": "wiki\\concepts\\rtos.md",
@@ -588,6 +689,20 @@
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
     },
+    "supervised-fine-tuning": {
+      "article_path": "wiki\\concepts\\supervised-fine-tuning.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
+    "supervised-learning": {
+      "article_path": "wiki\\concepts\\supervised-learning.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
     "swagger": {
       "article_path": "wiki\\concepts\\swagger.md",
       "sources": [
@@ -609,6 +724,13 @@
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
     },
+    "tensorflow-library": {
+      "article_path": "wiki\\concepts\\tensorflow-library.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
     "tls-ssl": {
       "article_path": "wiki\\concepts\\tls-ssl.md",
       "sources": [
@@ -616,12 +738,40 @@
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
     },
+    "traditional-machine-learning": {
+      "article_path": "wiki\\concepts\\traditional-machine-learning.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
+    "transformer-architecture": {
+      "article_path": "wiki\\concepts\\transformer-architecture.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
+    "transformers-library": {
+      "article_path": "wiki\\concepts\\transformers-library.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
+    },
     "typescript": {
       "article_path": "wiki\\concepts\\typescript.md",
       "sources": [
         "raw\\frontend_roadmap.md"
       ],
       "last_compiled": "2026-06-23T04:11:36Z"
+    },
+    "unsupervised-learning": {
+      "article_path": "wiki\\concepts\\unsupervised-learning.md",
+      "sources": [
+        "raw\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-23T06:32:29Z"
     },
     "vue": {
       "article_path": "wiki\\concepts\\vue.md",
