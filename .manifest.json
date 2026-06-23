@@ -5,8 +5,8 @@
       "hash": "sha256:86d3a2c76f53ec500e202bee5c7c80462a21f12ef668b66106d9855543df8a18",
       "type": "article",
       "size_bytes": 3038,
-      "added_at": "2026-06-23T03:31:18Z",
-      "compiled_at": "2026-06-23T03:31:18Z",
+      "added_at": "2026-06-23T04:00:35Z",
+      "compiled_at": "2026-06-23T04:00:35Z",
       "summary_path": "wiki\\summaries\\raw-ai_machine_learning.md",
       "status": "compiled"
     },
@@ -14,8 +14,8 @@
       "hash": "sha256:06ad79057bf0f2a355e2a22b1847ce54457bc1682f4704abda85680a2f0d077e",
       "type": "article",
       "size_bytes": 2244,
-      "added_at": "2026-06-23T03:31:17Z",
-      "compiled_at": "2026-06-23T03:31:17Z",
+      "added_at": "2026-06-23T04:00:35Z",
+      "compiled_at": "2026-06-23T04:00:35Z",
       "summary_path": "wiki\\summaries\\raw-backend_roadmap.md",
       "status": "compiled"
     },
@@ -23,8 +23,8 @@
       "hash": "sha256:1b419638b2141e8bb80098c25b5065282871f4f5055edec43e5dc37f8a244692",
       "type": "article",
       "size_bytes": 2936,
-      "added_at": "2026-06-23T03:31:19Z",
-      "compiled_at": "2026-06-23T03:31:19Z",
+      "added_at": "2026-06-23T04:00:36Z",
+      "compiled_at": "2026-06-23T04:00:36Z",
       "summary_path": "wiki\\summaries\\raw-cybersecurity.md",
       "status": "compiled"
     },
@@ -32,8 +32,8 @@
       "hash": "sha256:8d8e8cf109e52fd4d41b303c2ea7831ee49c0ebc65f72c323172a6a9c805a03a",
       "type": "article",
       "size_bytes": 2717,
-      "added_at": "2026-06-23T03:31:18Z",
-      "compiled_at": "2026-06-23T03:31:18Z",
+      "added_at": "2026-06-23T04:00:36Z",
+      "compiled_at": "2026-06-23T04:00:36Z",
       "summary_path": "wiki\\summaries\\raw-data_science_bigdata.md",
       "status": "compiled"
     },
@@ -41,8 +41,8 @@
       "hash": "sha256:060fc44da931a106b3dda2e70b95a21037eccbf52960a4690551b36628fc75d0",
       "type": "article",
       "size_bytes": 2542,
-      "added_at": "2026-06-23T03:31:19Z",
-      "compiled_at": "2026-06-23T03:31:19Z",
+      "added_at": "2026-06-23T04:00:36Z",
+      "compiled_at": "2026-06-23T04:00:36Z",
       "summary_path": "wiki\\summaries\\raw-devops_cloud.md",
       "status": "compiled"
     },
@@ -50,8 +50,8 @@
       "hash": "sha256:88b3651edf192edc117d4682fb9a33c79b63eaae5c8a0a9a8c034d4922ee758c",
       "type": "article",
       "size_bytes": 2834,
-      "added_at": "2026-06-23T03:31:19Z",
-      "compiled_at": "2026-06-23T03:31:19Z",
+      "added_at": "2026-06-23T04:00:36Z",
+      "compiled_at": "2026-06-23T04:00:36Z",
       "summary_path": "wiki\\summaries\\raw-embedded_systems_iot.md",
       "status": "compiled"
     },
@@ -59,8 +59,8 @@
       "hash": "sha256:69ad00f7c924b0919fd0e22734fd9d1bc4cc4437737e1cd47dac93f488358814",
       "type": "article",
       "size_bytes": 2525,
-      "added_at": "2026-06-23T03:31:18Z",
-      "compiled_at": "2026-06-23T03:31:18Z",
+      "added_at": "2026-06-23T04:00:36Z",
+      "compiled_at": "2026-06-23T04:00:36Z",
       "summary_path": "wiki\\summaries\\raw-frontend_roadmap.md",
       "status": "compiled"
     },
@@ -68,8 +68,8 @@
       "hash": "sha256:601b8b6cd6f538ea9aafee5ed4347d6568a4487033e0b5fc80acbd0274273cac",
       "type": "article",
       "size_bytes": 2308,
-      "added_at": "2026-06-23T03:31:18Z",
-      "compiled_at": "2026-06-23T03:31:18Z",
+      "added_at": "2026-06-23T04:00:36Z",
+      "compiled_at": "2026-06-23T04:00:36Z",
       "summary_path": "wiki\\summaries\\raw-fullstack_integration.md",
       "status": "compiled"
     },
@@ -77,362 +77,11 @@
       "hash": "sha256:2f27373a43920e243017e20493b8fbde8c5cc7715cfaef21185a5cbf933ba99e",
       "type": "article",
       "size_bytes": 2710,
-      "added_at": "2026-06-23T03:31:18Z",
-      "compiled_at": "2026-06-23T03:31:18Z",
+      "added_at": "2026-06-23T04:00:37Z",
+      "compiled_at": "2026-06-23T04:00:37Z",
       "summary_path": "wiki\\summaries\\raw-mobile_development.md",
       "status": "compiled"
     }
   },
-  "concepts": {
-    "android": {
-      "article_path": "wiki\\concepts\\android.md",
-      "sources": [
-        "raw/mobile_development.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "apache-spark": {
-      "article_path": "wiki\\concepts\\apache-spark.md",
-      "sources": [
-        "raw/data_science_bigdata.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "api-design": {
-      "article_path": "wiki\\concepts\\api-design.md",
-      "sources": [
-        "raw/backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "artificial-neural-networks": {
-      "article_path": "wiki\\concepts\\artificial-neural-networks.md",
-      "sources": [
-        "raw/ai_machine_learning.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "backend-development": {
-      "article_path": "wiki\\concepts\\backend-development.md",
-      "sources": [
-        "raw/backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "big-data-processing": {
-      "article_path": "wiki\\concepts\\big-data-processing.md",
-      "sources": [
-        "raw/data_science_bigdata.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "ci-cd": {
-      "article_path": "wiki\\concepts\\ci-cd.md",
-      "sources": [
-        "raw/devops_cloud.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "cloud-computing": {
-      "article_path": "wiki\\concepts\\cloud-computing.md",
-      "sources": [
-        "raw/devops_cloud.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "coap": {
-      "article_path": "wiki\\concepts\\coap.md",
-      "sources": [
-        "raw/embedded_systems_iot.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "convolutional-neural-networks": {
-      "article_path": "wiki\\concepts\\convolutional-neural-networks.md",
-      "sources": [
-        "raw/ai_machine_learning.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "csrf": {
-      "article_path": "wiki\\concepts\\csrf.md",
-      "sources": [
-        "raw/cybersecurity.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "cybersecurity": {
-      "article_path": "wiki\\concepts\\cybersecurity.md",
-      "sources": [
-        "raw/cybersecurity.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "data-science": {
-      "article_path": "wiki\\concepts\\data-science.md",
-      "sources": [
-        "raw/data_science_bigdata.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "data-storage": {
-      "article_path": "wiki\\concepts\\data-storage.md",
-      "sources": [
-        "raw/backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "database-interaction": {
-      "article_path": "wiki\\concepts\\database-interaction.md",
-      "sources": [
-        "raw/backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "deep-learning": {
-      "article_path": "wiki\\concepts\\deep-learning.md",
-      "sources": [
-        "raw/ai_machine_learning.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "devops": {
-      "article_path": "wiki\\concepts\\devops.md",
-      "sources": [
-        "raw/devops_cloud.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "distributed-computing": {
-      "article_path": "wiki\\concepts\\distributed-computing.md",
-      "sources": [
-        "raw/data_science_bigdata.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "docker": {
-      "article_path": "wiki\\concepts\\docker.md",
-      "sources": [
-        "raw/devops_cloud.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "edge-computing": {
-      "article_path": "wiki\\concepts\\edge-computing.md",
-      "sources": [
-        "raw/embedded_systems_iot.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "embedded-systems": {
-      "article_path": "wiki\\concepts\\embedded-systems.md",
-      "sources": [
-        "raw/embedded_systems_iot.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "hdfs": {
-      "article_path": "wiki\\concepts\\hdfs.md",
-      "sources": [
-        "raw/data_science_bigdata.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "infrastructure-as-code": {
-      "article_path": "wiki\\concepts\\infrastructure-as-code.md",
-      "sources": [
-        "raw/devops_cloud.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "ios": {
-      "article_path": "wiki\\concepts\\ios.md",
-      "sources": [
-        "raw/mobile_development.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "iot": {
-      "article_path": "wiki\\concepts\\iot.md",
-      "sources": [
-        "raw/embedded_systems_iot.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "kotlin": {
-      "article_path": "wiki\\concepts\\kotlin.md",
-      "sources": [
-        "raw/mobile_development.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "kubernetes": {
-      "article_path": "wiki\\concepts\\kubernetes.md",
-      "sources": [
-        "raw/devops_cloud.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "large-language-models": {
-      "article_path": "wiki\\concepts\\large-language-models.md",
-      "sources": [
-        "raw/ai_machine_learning.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "lora-wan": {
-      "article_path": "wiki\\concepts\\lora-wan.md",
-      "sources": [
-        "raw/embedded_systems_iot.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "lstm": {
-      "article_path": "wiki\\concepts\\lstm.md",
-      "sources": [
-        "raw/ai_machine_learning.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "machine-learning": {
-      "article_path": "wiki\\concepts\\machine-learning.md",
-      "sources": [
-        "raw/ai_machine_learning.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "mapreduce": {
-      "article_path": "wiki\\concepts\\mapreduce.md",
-      "sources": [
-        "raw/data_science_bigdata.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "mobile-development": {
-      "article_path": "wiki\\concepts\\mobile-development.md",
-      "sources": [
-        "raw/mobile_development.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "mqtt": {
-      "article_path": "wiki\\concepts\\mqtt.md",
-      "sources": [
-        "raw/embedded_systems_iot.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "native-development": {
-      "article_path": "wiki\\concepts\\native-development.md",
-      "sources": [
-        "raw/mobile_development.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "nb-iot": {
-      "article_path": "wiki\\concepts\\nb-iot.md",
-      "sources": [
-        "raw/embedded_systems_iot.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "nosql-databases": {
-      "article_path": "wiki\\concepts\\nosql-databases.md",
-      "sources": [
-        "raw/backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "react-native": {
-      "article_path": "wiki\\concepts\\react-native.md",
-      "sources": [
-        "raw/mobile_development.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "recurrent-neural-networks": {
-      "article_path": "wiki\\concepts\\recurrent-neural-networks.md",
-      "sources": [
-        "raw/ai_machine_learning.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "redis": {
-      "article_path": "wiki\\concepts\\redis.md",
-      "sources": [
-        "raw/backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "relational-databases": {
-      "article_path": "wiki\\concepts\\relational-databases.md",
-      "sources": [
-        "raw/backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "sql-injection": {
-      "article_path": "wiki\\concepts\\sql-injection.md",
-      "sources": [
-        "raw/cybersecurity.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "swift": {
-      "article_path": "wiki\\concepts\\swift.md",
-      "sources": [
-        "raw/mobile_development.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "system-architecture": {
-      "article_path": "wiki\\concepts\\system-architecture.md",
-      "sources": [
-        "raw/backend_roadmap.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "tcp-ip": {
-      "article_path": "wiki\\concepts\\tcp-ip.md",
-      "sources": [
-        "raw/cybersecurity.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "tinyml": {
-      "article_path": "wiki\\concepts\\tinyml.md",
-      "sources": [
-        "raw/embedded_systems_iot.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "tls": {
-      "article_path": "wiki\\concepts\\tls.md",
-      "sources": [
-        "raw/cybersecurity.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "transformer": {
-      "article_path": "wiki\\concepts\\transformer.md",
-      "sources": [
-        "raw/ai_machine_learning.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "udp": {
-      "article_path": "wiki\\concepts\\udp.md",
-      "sources": [
-        "raw/cybersecurity.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    },
-    "xss": {
-      "article_path": "wiki\\concepts\\xss.md",
-      "sources": [
-        "raw/cybersecurity.md"
-      ],
-      "last_compiled": "2026-06-23T03:32:45Z"
-    }
-  }
+  "concepts": {}
 }

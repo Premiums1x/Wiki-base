@@ -2,22 +2,26 @@
 source: raw\data_science_bigdata.md
 source_type: article
 source_hash: sha256:8d8e8cf109e52fd4d41b303c2ea7831ee49c0ebc65f72c323172a6a9c805a03a
-compiled_at: 2026-06-23T03:31:04Z
+compiled_at: 2026-06-23T04:00:07Z
 chunk_count: 1
 ---
 
-## Key Claims
-- 数据科学是通过处理大量杂乱无章的数据来提取知识和洞察的跨学科领域。
-- 大数据技术解决在高容量、高速度和多样化的数据环境下的工程问题。
-- 数据科学包括从数据采集到模型训练评估的五个主要步骤。
-- 在分布式计算和存储架构下，大数据工程利用HDFS、MapReduce和Apache Spark等技术。
-- 分布式计算框架Apache Spark比MapReduce更快，因其使用内存中的中间计算结果。
+## Key claims
+- 数据科学是从大量非结构化数据中提取知识和洞察的一个跨学科领域。
+- 大数据技术为处理海量、高速、多样化数据提供了工程实现。
+- 大多数数据科学家花费大约80%的时间在数据清洗与准备上。
+- Hadoop的分布式文件系统（HDFS）通过切割文件和多副本机制来提高分布式存储的效率和容错性。
+- Apache Spark由于其内存级分布式计算展示了比MapReduce快10到100倍的性能。
 
 ## Methodology
-本文提供了数据科学流程和大数据工程技术的概述，涉及技术和工具的介绍以及每一部分的数据处理方式和特点描述。
+- 文章从数据科学项目的工作流程（数据采集、清洗、探索性数据分析、特征工程、模型训练与评估）进行详细介绍。
+- 描述了大数据技术的分布式存储（HDFS）和分布式计算框架（MapReduce、Apache Spark）的原理和架构。
+- 探讨了数据仓库和数据湖的概念，以及它们在大数据技术中的角色。
 
 ## Results
-文章总结了数据科学项目中的五个关键阶段，即数据采集、清洗和准备、探索性数据分析、特征工程、模型训练与评估，以及介绍了大数据技术中的分布式存储和计算框架，包括HDFS、MapReduce和Apache Spark。
+- 数据科学方法论确保了从数据采集到模型部署的一系列标准化流程。
+- 分布式计算和存储技术能够支持处理海量数据，从而提高了数据处理效率和任务执行速度。
+- 数据仓库和数据湖的引入，使数据分析能够达到实时分析和历史数据分析的结合。
 
 ## Concepts
-数据科学, 大数据, 数据采集, 数据清洗与准备, 探索性数据分析, 特征工程, 模型训练与评估, 分布式存储, HDFS, 分布式计算框架, MapReduce, Apache Spark, RDD, 数据仓库, 数据湖, Python, R, Pandas, NumPy, Jupyter Notebook, SQL
+分布式存储, Hadoop Distributed File System, MapReduce, Apache Spark, EDA, 特征工程, 数据仓库, 数据湖, Jupyter Notebook, Pandas, NumPy, SQL
