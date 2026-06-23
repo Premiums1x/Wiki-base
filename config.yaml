@@ -30,7 +30,7 @@ api:
 # Use faster/cheaper models for high-volume tasks, quality models for writing
 models:
   summarize: Qwen/Qwen2.5-7B-Instruct
-  extract: Qwen/Qwen2.5-7B-Instruct
+  extract: Qwen/Qwen2.5-14B-Instruct
   write: Qwen/Qwen2.5-14B-Instruct
   lint: Qwen/Qwen2.5-7B-Instruct
   query: Qwen/Qwen2.5-7B-Instruct

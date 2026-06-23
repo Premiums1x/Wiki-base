@@ -2,56 +2,44 @@
 source: raw\ai_machine_learning.md
 source_type: article
 source_hash: sha256:86d3a2c76f53ec500e202bee5c7c80462a21f12ef668b66106d9855543df8a18
-compiled_at: 2026-06-23T04:07:18Z
+compiled_at: 2026-06-23T04:10:30Z
 chunk_count: 1
 ---
 
-##
+##structured summary:
 
-## Key Key Claims
-- 人工智能模拟人类智能行为。
-- 机器学习是通过数据和算法让计算机自动“学习”的的过程。
-- 传统机器学习通常处理结构化数据，使用数学和统计学方法。
-- 深度学习基于人工神经网络，特别是深度网络。
-- 大语言模型在海量文本数据上上预训练而生成。
+## Key claims Claims
+- AI is the science scienceNce and engineering of computer to simulate human-like intelligent behavior.
+- Machine learning (ML) focuses on allowing systems computers to "learn" from dataateda and algorithmd without explicit explicit programming.
+- Deep learning (Deep Learning) relies on annificial neural networks (ANN), particularly deep networks with multiple hidden layers.
+- GPT-4, Claude D Gemini D DeepSeekD are arear large-scale language models based basedd on NN- structureer architecture and trained on vast textual datatata.
 
 ##Method
-- � unterschied了传统机器学习和处理结构化数据”和使用传统算法，如SVM、决策树和随机森林。
-- 深度学习依赖于人工神经网络 和特别是具有中层隐藏层的网络。
-- 大语言模型“采用预训练的方法，，并在海量无标注文本上上自监督学习，。
+- Trad traditional machine learning learning learning typically deals with structured data dataata and uses statistical and mathematical methodsoths.
+- S-supervised learning learning in which training dataataData isaLabel- (Classiific D regression ), or regressionDD (predictnD regressionD ),.
+- U Unsupervised learning involves which trainingD ata doD not haveaLabel- (Clustering DPCA ),ndimensionalityalityality reductionD ).
+- Deep learning learning learning focuses on artificial neural networks (ANN) architectures,, such asnd network (CNN) and recurrent neural nwwork (RNN).
+D   TTransformer architectureD has was em introducesD d self attention mechanism (Self-attention) and is becoming the odDedds erArchitectDUDD for largD languageD modelsD.
 
 ##Results
-- 传统机器学习”应用于分类和回归分析。
-- 深度学习中卷积神经网络C中表现优D”，擅长处理图像和视频数据，而循环神经网络L应用于处理序列数据如自然语言处理和时间序列。
-- 通过自我监督学习和RLAF技术，，大语言模型获得序对话数据”，并优化其回应质量。
--在预训练过程中D用于“检索增强生成”方法”，大模型结合外部知识库产生更准确和内容丰富的回复。
+- Traditional machineine learning techniques arehave various supervised and unsupervisedD methods learning.
+- DD deepD learning learningleneck (CNN) ises p well in handlingNDated likeD structuredDataata such as 图片D and videos)D.
+D   R RN and DTransformerarchitectureD has arereaD the coreDrydomDing in theDD development and evDDuation of largD  D modelsD.
+D TDA hatD HugDinging Face (Transformersersersrs库)ND integrDesstant oely largD   modelsint for natural languagNG (NLP) applicDND andN providD comprehensive ND      of toolset.
 
 ##Concepts
-- 人工智能
-- 机器学习
-- 深度学习
-- 人工神经网络
-- �支持监督学习
-- 无监督学习
-- 分类
-- 回归
-- �聚类
---降
-- �层隐藏层
-- �卷积神经网络
-- 循列神经网络L rêve
--D 循环式L rêve
--D 局部Dreme分析
-- 监督微调
-- 人类反馈强化学习
-- 检索增强生成
---HT
-- Python
-- PyTorch
--D 夅量Flow
-- 检索增强生成RAG
-- 检索最分析PCA
-- 检索
--- 自动化自注意力
-- 数学和统计学方法
---HT
+- AI, aN, learningD areN andNdogenous learningNNeenD learningDd (SND)D andNN undersuptingN).
+-SND SupervisedD learning learning yielding,, unsupsuervisedD andNNDSiveDDeepD andNN learning.
+D  NeuralNetworD (NNN).
+D  ConvolutionalN NeuralDeusDuledNetwork (CNN )N.
+D  RecurrentNeuralualal Ffow neuralNetwork (RNN).
+D  Long-Short-TernMemory (LSTM)D.
+D  TransformerD.
+D  Pre-trainingD.
+N  Fine-tuninguninguing.
+N  Self-attentionD.
+N  Reinforced.deltaTime (RLD).
+N  ReinforcementLearning (RL).
+N  Human-FeedbackReReoutedneDecreinforcementLearning (RLFFF).
+N  RetrievalA-G Gener- Generation GenerationerasiSe (RANG).
+D  Hhall hallucinationN.

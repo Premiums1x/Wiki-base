@@ -2,18 +2,36 @@
 source: raw\data_science_bigdata.md
 source_type: article
 source_hash: sha256:8d8e8cf109e52fd4d41b303c2ea7831ee49c0ebc65f72c323172a6a9c805a03a
-compiled_at: 2026-06-23T04:07:08Z
+compiled_at: 2026-06-23T04:10:25Z
 chunk_count: 1
 ---
 
-## Keycept
-数据科学, 大数据HadoopHDFSMapReduceRDDSpark数据仓库数据湖PythonPandasNumPyJupyter NotebookSQL
+## Keycepts
+数据科学, 大数据, Hadoop, HDFS, MapReduce, Spark, RDD, 数据仓库, 数据湖 > Jupyter Notebook 
 
-## Method
-The the standard data science workflow includes data data ingestion, wrangling, exploratory data analysis (EDA), feature feature engineering, and model model training and evaluation. For big data engineering, the document arelution uses distributive storage (HDFS) and computative on MapReduce and Apache Spark. Itt these on on on the datawarehouse and data lake as.
+## Key Key Claims
+- 数据科学是从大量杂乱无章的数据中提取知识和洞察的跨学科领域。
+- 夻大力技术是数据科学在海量数据（Volume）、高速增长（Velocity）、多样化数据结构（Variance）下的工程实现。
+- 一个标准的数据科学项目通常遵循数据采集、数据清洗与准备、探索性数据分析、特征工程、模型训练与评估这五个步骤。
+- 当单机内存和计算力能力无法处理海量数据时，必须采用分布式计算和存储架构。
+- 对Spark比相比MapReduce，速度快多达1至到 倍。
+- 数据仓库存储结构化的、经过清洗的历史数据，常用于 BI 报表和多维分析。
+- 数据湖以原始格式存储任意结构（结构化、半结构化、非结构化）数据的专业存储库。
+- Python 是数据分析的主要编程语言。
+- SQL 依然是查询和分析数据最核心的语言。
 
-##onluts
-1 standard data science process is efficient for small to medium-scale data. However big data datasets require more advanced and scalable solutions for handling get multiple stages of of from ingestion to (wrangling, analysis, model model development, and (training on on evalut) as on on models on models.
+## Methodology
+- 数据采集: 从 API、网页爬虫、数据库 或日志文件中获取原始数据。
+- 数据清洗与准备: 处理缺失值、异常值、重复数据以及将数据转换为适合分析的格式。
+- 探索性数据分析: 使用统计图表（如折线图、散点图、直方图）探索数据的分布、相关性和潜在模式。
+- 特征工程: 提取、选择和转换用于机器学习模型训练的的特征变量。
+- 模型训练与评估: 选择合适的算法进行建模并通过交叉验证（交叉验证）评估性能。
 
-##oncepts
-数据科学, �สอบถาม数据科学.Variable数据科学家工作站自然语言处理机器学习HadoopHDFSMapReduceRDDSpark数据仓库数据湖PythonPandasNumPyJupyter NotebookSQL
+## Results
+- 夻力章介绍了数据采集、数据清洗与准备、探索性分析、特征工程及模型培训与评估的流程。
+- 提到了在处理海量数据时，需采用分布式存储（如HDFS）和计算框架（如MapReduce和Spark）。
+- 强调了SQL和Python在数据分析的普遍应用。
+- 比较了Spark和传统MapReduce分别在计算和存储上的优势。
+
+### Summarize Outcomes and Conulations
+通过详细介绍了数据科学工作流，本文指对其重要性和步骤进行了详细阐释。同时介绍了数据科学和大数据的关键步阱及其相关技术工具（编程语言、框架和库等，为学和从业人员提供一座清晰的天花板。
