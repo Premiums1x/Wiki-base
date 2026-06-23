@@ -2,24 +2,50 @@
 source: raw\fullstack_integration.md
 source_type: article
 source_hash: sha256:601b8b6cd6f538ea9aafee5ed4347d6568a4487033e0b5fc80acbd0274273cac
-compiled_at: 2026-06-23T04:00:22Z
+compiled_at: 2026-06-23T04:07:16Z
 chunk_count: 1
 ---
 
-## Key claims
-- Properly integrating front-end and back-end projects is crucial for developing a complete web application.
-- Cross-Origin Resource Sharing (CORS) must be handled to allow requests between different domains or ports.
-- JSON Web Tokens (JWT) facilitate secure authentication without maintaining state in the HTTP protocol.
-- A structured workflow and well-defined API documentation enhance collaboration in full-stack development.
+## Key Claims
+- local development, integration between frontend and backend is often challenging due to same security policies. CORS and JWT authentication are key commonly used approaches to facilitate communication. A Standard workflows for development collaboration
 
-## Methodology
-- The article employs explanatory narration and specific code examples to detail the processes and solutions required for integrating front-end and back-end systems.
-- Use of Mermaid sequences and code snippets for visual and practical demonstrations of concepts such as CORS configuration, JWT usage, and full-stack integration workflow.
+## Method
+1
+ 1 CORS configuration
+    - Configure `cors` middleware on server back end server services.
+    2 Proxy configurations on frontend for development purposes.
+2 authentication and authorization, use JWT to handle state state-stateless HTTP sessions.
 
 ## Results
-- Cross-domain issues are resolved through enabling CORS in the backend or configuring a proxy on the front-end.
-- JWT helps manage stateless authentication by facilitating token-based verification between the client and server.
-- A standardized workflow improves the coordination between front-end and back-end developers, aiding in efficient feature development and debugging.
+ 1 Effective CORS and JWT implementations allow for seamless on on integration between frontend and backend despite different cross-origin requests.
+  * The development workflow can be standardized using tools like such as Swagger or Apifox for defining clear a common understand contract agreementreements.
 
 ## Concepts
-CORS, Same-Origin Policy, JWT, JSON Web Token, Vite, React, Node.js, Express, Go, Swagger, Apifox, JSON, HTTP Request, Authorization, LocalStorage, Cookie, Mermaid sequence, API documentation
+  CORS, origin policy, JSON JSON control源策略 (Same-Origin Policy), JSON
+assistant
+## Key Claims
+- Integration between frontend and backend can be challenging, local development due to security policies.
+- CORS and JWT authentication are commonly used approaches to facilitate communication.
+- Standard Standard workflows for development can be standardized using tools like such as Swagger or or Apifx for defining API contracts.
+- Effective CORS and JWT implementations allow for seamless integration between frontend and backend despite cross-origin requests.
+
+## Method
+- Configure ` back end middleware with CORS to allow allow requests.
+- Frontend configurations for proxying are development purposes.
+- Use JWT for on-stateless HTTP session handling.
+- Standard on developing and proxy configurations use a sequence diagram workflow for standard development processes.
+
+## Results
+- CORS and JWT effectively resolve cross-origin request issues on local development.
+- Using standardized API documentation tools like Swagger or Apifx helps to manage interfaceifferences
+
+## Concepts
+- CORS
+- Cross-origin resource sharing (CORS)
+- Same-origin policy
+- JSON-Control-Allow-Origin
+- JSON JSON
+ Oswego
+- JSON
+- JWT (JSON Web Web Token)
+- Authorization header

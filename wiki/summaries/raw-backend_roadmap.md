@@ -2,25 +2,53 @@
 source: raw\backend_roadmap.md
 source_type: article
 source_hash: sha256:06ad79057bf0f2a355e2a22b1847ce54457bc1682f4704abda85680a2f0d077e
-compiled_at: 2026-06-23T04:00:08Z
+compiled_at: 2026-06-23T04:07:27Z
 chunk_count: 1
 ---
 
-## Key claims
-- 后端开发关注服务器端逻辑、数据库交互、业务规则、API 设计及系统架构。
-- Node.js 提供 Express 和 NestJS 框架，适用于全栈开发。
-- Go（Golang）因其高并发能力，适合开发高效率的后端服务。
-- Java、Python 和 Rust 各有其优势的应用场景，分别是企业级开发、人工智能与数据分析、高性能系统开发。
-- 关系型数据库适合高一致性的业务，而非关系型数据库在灵活性和水平扩展上有优势。
-- Redis 可作为缓存及分布式锁使用，减轻数据库负担。
-- 各种 API 设计协议（RESTful、GraphQL、gRPC）适用于不同场景，以满足不同的性能和结构需求。
+## Key Claims
+- 后端开发关注服务器端逻辑、数据库交互、业务规则、API设计以及系统架构。
+- Node.js和Go是常用的后端开发语言，分别适用于高并发请求和高效内存使用场景。
+- 常见的关系型数据库MySQL、PostgreSQL支持ACID事务和严格的模式，适合难以一致性要求的系统。
+- 非关系型数据库MongoDB、Redis有灵活的架构和水平扩展能力，MongoDB适合文档型数据存储。
+- � RESTful API基于HTTP协议提供了标准的HTTP方法。
+-  GraphQL允许客户端指定需要的数据，提高了数据请求的效率。
+- g g 
 
 ## Methodology
-- 无特定方法论，为对后端开发相关技术栈、数据库及接口协议的概述性介绍。
+-  该段落中未提及具体的方法或技术或工具选择的标准或决策过程。
 
 ## Results
-- 提供了从技术栈选择、数据库类型及应用、到接口协议技术概览的近乎全面的后端开发学习路线，重点在于其应用场景及其技术优势的介绍。
-- 未给出具体实验结果。
+- 分析了主流后端技术栈、数据库类型、以及接口设计策略。
+- 列出了几种后端框架和开发语言及其特点。
+- 描述了几种常用的数据库的特点及使用场景。
+- 解释了几种接口设计模式的优势。
+-  提供了几种后端开发中关键技术栈的代表性工且程工具。
 
 ## Concepts
-Node.js, JavaScript, TypeScript, Express, NestJS, Go (Golang), Goroutines, Java, Python, Rust, 数据存储, MySQL, PostgreSQL, ACID 事务, 外键关联, 索引优化 (B+树), 主从复制, SQL 查询联表（JOIN）, MongoDB, Redis, RESTful API, HTTP, JSON, GraphQL, gRPC, HTTP/2, Protocol Buffers
+- 后端开发
+- Node.js
+- Go (Golang)
+- Java
+- Python
+- MySQL
+- PostgreSQL
+- 关系型数据库 (SQL)
+- 非关系型数据库 (NoSQL)
+- ACID事务
+- B树
+- 主从复制
+- HTTP协议
+- RESTful API
+- GraphQL
+- gRPC
+- 夕踪联表 (JOIN)
+- 标沪化工具 (Schema)
+- 静态编译型语言
+- 嵌量 (In-Memory)
+- 逗量度扩展 (Horizontal Scaling)
+- 遁程调用 (RPC)
+- 显式请求 (Explicit Requests)
+- 备依包 (Dependent Packages)
+- 夑键值 (Key-Value)
+- 标识符 (ID)
