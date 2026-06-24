@@ -32,7 +32,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "wiki/concepts/local-development-environment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -55,12 +54,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.13168724279835375,
+                  "scale": 0.25883865621816216,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "local-development-environment 的关系图"
+              "title": "关系图谱"
             },
             "group": "4be788516935de4e"
           }
@@ -138,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/concepts/nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "nodejs 的反向链接列表"
             }
           },
           {
@@ -156,11 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/concepts/nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "nodejs 的出链列表"
             }
           },
           {
@@ -198,12 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/concepts/nodejs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "nodejs 的大纲"
             }
           }
         ]
@@ -224,10 +226,33 @@
       "bases:新建数据库": false
     }
   },
-  "active": "72ce53f1f72baca9",
+  "active": "ef47c037f6c03457",
   "lastOpenFiles": [
+    "raw/09-cybersecurity/cybersecurity.md",
+    "raw/08-devops-and-cloud/devops_cloud.md",
+    "raw/07-embedded-systems-and-iot/embedded_systems_iot.md",
+    "raw/06-mobile-development/mobile_development.md",
+    "raw/05-fullstack-integration/fullstack_integration.md",
+    "raw/04-backend-development/backend_roadmap.md",
+    "raw/03-frontend-development/frontend_roadmap.md",
+    "raw/02-data-science-and-bigdata/data_science_bigdata.md",
+    "raw/01-ai-and-machine-learning/ai_machine_learning.md",
+    "raw/09-cybersecurity",
+    "raw/08-devops-and-cloud",
+    "raw/07-embedded-systems-and-iot",
+    "raw/06-mobile-development",
+    "raw/05-fullstack-integration",
+    "raw/04-backend-development",
+    "raw/03-frontend-development",
+    "raw/02-data-science-and-bigdata",
+    "raw/01-ai-and-machine-learning",
+    "wiki/under_review/2026-06-24-how-to-learn-bigdata.md",
+    "wiki/under_review/2026-06-24-how-can-i-leran-android-development.md",
+    "wiki/under_review",
+    "wiki/concepts/nodejs.md",
+    "wiki/concepts/tls-ssl.md",
+    "wiki/concepts/https.md",
     "assets/image.png",
-    "assets",
     "README.md",
     "wiki/concepts/local-development-environment.md",
     "wiki/concepts/transformers-library.md",
@@ -239,23 +264,6 @@
     "wiki/concepts/supervised-fine-tuning.md",
     "wiki/concepts/retrieval-augmented-generation.md",
     "wiki/concepts/fine-tuning.md",
-    "wiki/concepts/transformer-architecture.md",
-    "wiki/concepts/pretraining.md",
-    "wiki/concepts/recurrent-neural-network.md",
-    "wiki/concepts/convolutional-neural-network.md",
-    "wiki/concepts/dimensionality-reduction.md",
-    "wiki/concepts/clustering.md",
-    "wiki/concepts/regression.md",
-    "wiki/concepts/classification.md",
-    "wiki/concepts/unsupervised-learning.md",
-    "wiki/concepts/artificial-intelligence.md",
-    "wiki/concepts/supervised-learning.md",
-    "wiki/concepts/traditional-machine-learning.md",
-    "wiki/concepts/nextjs.md",
-    "wiki/concepts/react.md",
-    "wiki/concepts",
-    "wiki/summaries",
-    "wiki",
-    "prompts"
+    "wiki/concepts/transformer-architecture.md"
   ]
 }

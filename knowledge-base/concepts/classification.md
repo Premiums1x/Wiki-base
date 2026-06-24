@@ -1,0 +1,24 @@
+---
+concept: classification
+entity_type: concept
+aliases: []
+sources: ["raw\\01-ai-and-machine-learning\\ai_machine_learning.md"]
+confidence: high
+created_at: 2026-06-24T08:00:01Z
+---
+
+## Definition
+Classification is a fundamental task in [[machine-learning]] where the goal is to predict the category or class to which a piece of data belongs, based on a set of input features. This task can be seen as an extension of the broader concept of pattern-recognition, where the [[machine-learning]] model learns to differentiate among various categories present in the training data. In the context of [[deep-learning]], classification tasks can be solved using complex structures like neural networks, which build on traditional machine learning techniques.
+
+## How it works
+In classification tasks, the model is trained on labeled data, meaning each data point in the training set includes feature characteristics as well as the correct classification outcome. The model adjusts its parameters to minimize error when predicting the labels of unseen data, thereby learning a mapping from inputs to outputs. For instance, in a spam filtering system, the model learns to distinguish between spam and non-spam emails by analyzing features such as the sender's identity, email content, and frequency of certain words. Once trained, the model can classify new data points efficiently, extending its ability to perform [[supervised-learning]] tasks.
+
+Classification models evaluate various features of the input data to determine the probability of belonging to different classes. Decision trees and random forests, for example, recursively split the data into subsets that are increasingly homogeneous, optimizing the base rate of class attribution. In contrast, algorithms like support vector machines (SVM) find the hyperplane that best separates different classes in feature space, relying on linear algebra to achieve this. As a more recent implementation, deep neural networks incorporate multiple layers of interconnected neurons, which build on the principles of traditional classification techniques to automatically learn and apply rapidly complex transformations to the input data, effectively separating or clustering multi-dimensional data points.
+
+## Variants
+Classification can be implemented in several ways, with different approaches tailored to specific needs and types of data. Traditional classification models like support vector machines, decision trees, and random forests are commonly used for structured data, providing strong performance in various classification tasks. For more complex or higher-dimensional data, such as images or text, advanced implementations like convolutional neural networks (CNNs) and recurrent neural networks (RNNs) are more appropriate. CNNs leverage the spatial dependencies in grid-like datasets, such as images, to perform image classification with high accuracy. Meanwhile, RNNs are set up to handle sequential data, allowing them to classify time-series data or text based on the dependencies between elements in the sequence. These variants each optimize certain aspects of classification, each trading off computational complexity, training time, and accuracy to effectively handle the task at hand.
+
+## Trade-offs
+While classification models are powerful, they come with various limitations and considerations. Overfitting, where the model performs well on training data but poorly on unseen data, is a common issue. This can be mitigated through techniques like cross-validation, regularization, and choosing models with appropriate complexity. Furthermore, training these models often requires a significant amount of labeled data, which can be resource-intensive and time-consuming to generate. Additionally, classification models may introduce biases that reflect or exacerbate existing societal biases in the training data, a problem that requires careful examination and mitigation strategies.
+
+The choice of model also depends on the nature of the data and the specific application. Decision trees, for example, are interpretable, which can be crucial in applications requiring transparency, such as in healthcare or legal contexts. However, they might not perform as well as more complex models in tasks requiring extensive feature interactions or handling large datasets. Deep learning models, while highly accurate and capable of handling vast amounts of data, can require extensive computational resources and are less interpretable, which can prevent their use in applications where understanding the reasoning behind predictions is critical.

@@ -6,11 +6,35 @@ project: my-wiki
 description: "sage-wiki project: my-wiki"
 
 sources:
-  - path: raw
+  - path: raw/01-ai-and-machine-learning
     type: auto          # auto-detect from file extension
     watch: true
+  - path: raw/02-data-science-and-bigdata
+    type: auto
+    watch: true
+  - path: raw/03-frontend-development
+    type: auto
+    watch: true
+  - path: raw/04-backend-development
+    type: auto
+    watch: true
+  - path: raw/05-fullstack-integration
+    type: auto
+    watch: true
+  - path: raw/06-mobile-development
+    type: auto
+    watch: true
+  - path: raw/07-embedded-systems-and-iot
+    type: auto
+    watch: true
+  - path: raw/08-devops-and-cloud
+    type: auto
+    watch: true
+  - path: raw/09-cybersecurity
+    type: auto
+    watch: true
 
-output: wiki
+output: knowledge-base
 
 # LLM provider configuration
 # Supported: anthropic, openai, gemini, ollama, openai-compatible, qwen
