@@ -20,11 +20,11 @@
       "status": "compiled"
     },
     "raw\\03-frontend-development\\frontend_roadmap.md": {
-      "hash": "sha256:69ad00f7c924b0919fd0e22734fd9d1bc4cc4437737e1cd47dac93f488358814",
+      "hash": "sha256:219f354ed2b0522e8f037f1b6b5ccfaf2c2f0780dcd4d5b22ca53504d48e1dc0",
       "type": "article",
       "size_bytes": 2525,
       "added_at": "2026-06-24T09:21:21Z",
-      "compiled_at": "2026-06-24T09:21:21Z",
+      "compiled_at": "2026-06-24T09:33:06Z",
       "summary_path": "knowledge-base\\summaries\\raw-03-frontend-development-frontend_roadmap.md",
       "status": "compiled"
     },
@@ -83,5 +83,132 @@
       "status": "compiled"
     }
   },
-  "concepts": {}
+  "concepts": {
+    "async-programming": {
+      "article_path": "knowledge-base\\concepts\\async-programming.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "build-tools": {
+      "article_path": "knowledge-base\\concepts\\build-tools.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "css3": {
+      "article_path": "knowledge-base\\concepts\\css3.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "es6": {
+      "article_path": "knowledge-base\\concepts\\es6.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "es6-features": {
+      "article_path": "knowledge-base\\concepts\\es6-features.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "flexbox": {
+      "article_path": "knowledge-base\\concepts\\flexbox.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "grid": {
+      "article_path": "knowledge-base\\concepts\\grid.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "hooks": {
+      "article_path": "knowledge-base\\concepts\\hooks.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "html5": {
+      "article_path": "knowledge-base\\concepts\\html5.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "jsx": {
+      "article_path": "knowledge-base\\concepts\\jsx.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "react": {
+      "article_path": "knowledge-base\\concepts\\react.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "react-components": {
+      "article_path": "knowledge-base\\concepts\\react-components.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "react-render": {
+      "article_path": "knowledge-base\\concepts\\react-render.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "semantic-html": {
+      "article_path": "knowledge-base\\concepts\\semantic-html.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "side-effect-handling": {
+      "article_path": "knowledge-base\\concepts\\side-effect-handling.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "state-management": {
+      "article_path": "knowledge-base\\concepts\\state-management.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "typescript": {
+      "article_path": "knowledge-base\\concepts\\typescript.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "virtual-dom": {
+      "article_path": "knowledge-base\\concepts\\virtual-dom.md",
+      "sources": [
+        "raw\\03-frontend-development\\frontend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:33:26Z"
+    }
+  }
 }
