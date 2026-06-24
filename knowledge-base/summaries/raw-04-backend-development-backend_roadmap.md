@@ -1,71 +1,56 @@
 ---
 source: raw\04-backend-development\backend_roadmap.md
 source_type: article
-source_hash: sha256:06ad79057bf0f2a355e2a22b1847ce54457bc1682f4704abda85680a2f0d077e
-compiled_at: 2026-06-24T09:21:10Z
+source_hash: sha256:e7068e6d44b45049dad233b0ffc721cf56bbd4e3f93fae3ce482a2e1f60345cf
+compiled_at: 2026-06-24T09:39:41Z
 chunk_count: 1
 ---
 
 ## Key Claims
-- 后端开发关注服务器逻辑、数据库交互、业务规则、API设计和系统架构。
-- Node.js在处理高并发和高量请求时表现优异。
-- Go具有极高的运行效率和极低的内存占用，支持原生线程序。
-- Java、Python和 Node.js在企业级系统、人工智能/数据分析、全栈开发中占主导地位。
-- 数据存储和管理包括关系型数据库和非关系型数据库。
-- AC 数据库使用表格结构，支持ACID事务，适合高度一致性的业务。
-- Redux API基于HTTP协议，使用标准的HTTP方法操作资源。
-- GraphQL允许客户端显式指定所需数据，避免数据“过度获取”或“获取不足”。
-- gRPC用于微服务架构内部的高性能RPC通信。
+- Node.js和TypeScript可以在后端提供高效处理高并发请求的能力。
+-Go语言以其高效性和低内存占用适用于高并发后端服务开发。
+-Java、Python在企业系统、AI/数据分析和高性能系统中占据重要地位。
+-SQL数据库适合处理需要高度一致性的业务场景。
+-NoSQL数据库利用其灵活的模式和水平扩展的优势处理大规模数据存储。
+-Restful API利用HTTP标准提供面向资源的API设计。
+-GraphQL允许按需获取数据，解决RESTHTful API数据冗余问题。
+-gRPC用于高性能远程过程调用通信。
 
 ## Methodology
-Man through descriptive text analysis and extraction of key concepts from the provided Markdown text.
+-分析当前流行的的后端开发语言及其特点。
+-概述关系型和非关系型数据库的特应用以及它们的特性。
+-介绍API设计中常用的标准和技术。
 
 ## Results
--  Core technologies include Node.js, Go, Java, Python.
- - Data storage and management methodss included SQL databases and NoSQL databases.
- - API design includes ReST and GraphQL.
+-后端开发，Node.js、Go、Java、Python等具有不同的优势领域。
+-NoSQL和SQL数据库各有特点且被广泛应用于不同的业务场景。
+-Restful API、GraphQL等和gRPC在现代后端开发中展现不同的应用场景和优势。
 
 ## Concepts
-- 后端开发
-- Node.js
-- JavaScript/ TypeScript
-- Express
-- N Nestjs
-- Go
-- 架构
-- 语言
-- Java
-- Python
-- Go
-- 动态脚本
-- 静态型语言
-- Node.js
-- 异步
-- 高量
-- 型程
-- Java
-- 数据库
-- MySQL
-- PostgreSQL
-- ACID
-- 外键关联
-- � 检
-- B-树
-- 主从复制
-- Sequelize
-- MongoDB
-- 文档型
-- Redis
-- 键值
-- 缓动
--      Clientside
-- 服务器端
-- ReSTful API
-- HTTP
-- GET
-- POST
-- PUT
-- DELETE
-- �    GraphQL
-- Protocol Buffers
-- gRPC
+-Node.js
+-TypeScript
+-Express
+-Go
+-Java
+-Python
+-关系型数据库 (SQL)
+-非关系型数据库 (NoSQL)
+-MySQL
+-PostgreSQL
+-外键关联
+-索引优化 (B树)
+-主从复制
+-缓存 (Cache)
+-Redis
+-文档型数据存储
+-键值数据库
+-内存数据库
+-Restful API
+-GraphQL
+-gRPC
+-HiTP协议
+-标准的HTTP方法
+-过度获取 (Over
+fetch)和获取不足 (In(fetch)）
+-Protocol Buffers
+-微服务架构

@@ -1,30 +1,36 @@
 ---
 source: raw\08-devops-and-cloud\devops_cloud.md
 source_type: article
-source_hash: sha256:060fc44da931a106b3dda2e70b95a21037eccbf52960a4690551b36628fc75d0
-compiled_at: 2026-06-24T09:21:02Z
+source_hash: sha256:bb8cbf980850d5983e6154ce30dfcdc964c694ab6c5341b09c2a532f4597a03c
+compiled_at: 2026-06-24T09:39:35Z
 chunk_count: 1
 ---
 
 ## Key Claims
-- DevOps 促进开发、技术运营与质量保障部门之间的沟通与协作。
-- 容器化解决软件交付难题。
-- Kubernetes 实现现容器编排。
-- 持续集成确保新代码不破坏已有功能。
-- 持续部署自动化代码打包与发布过程。
-- 通过声明化基础设施管理云端的基础设施。
+- DevOps 是一组过程、方法与系统系统，用于促进开发、技术运营和 质量保障之间的沟通与整合。
+- 容器化解决了“在我的机器上能运行但在服务器上不能不”的的历史难题。
+- Kubernetes 是 一个工业级容器编排引擎，用于自动化容器化应用的部署、扩展和管理。
+- 自续集成 (CI)”确保每次代码提交后自动触发各种测试流程。
+避免已有功能损坏。
+- 持续部署 (CD)”使自动打包代码并发布到多种环境。
+- 基础设施即代码 (IaAC)”通过配置文件实现管I化管理云中基础设施。
 
-## Methodology
-- No specific method” or described techniques” were describedited in the texttent.
+，避免手动管理。
 
-## Results
-- 容器技术改变软件交付模式。
-- Kubernetes提供自动化容器编排功能。
-- 持续集成确保每次代码提交后自动构建、检查与测试。
-- 持续部署实现自动化部署与更新。
-- 配置文件化方法管理云端基础设施。
+## 方法学
+- 文档通过容器技术”进行应用的打包和运行。
+- K8s 通过几个核心组件 （Pod、Service、Deployment）自动化容器化应用的多种操作。
+I 文通过配置管理工具如（如 Terrerraform管理云中基础设施。
 
-## Concepts
-- DevOps,”，“容器化””，“编排””，“Docker””，“Kubernetes””(，ocker (K8s)””，“PodI”，“ServiceI”，“DeploymentI”，“持续集成””，“持续持续部署CI””，“持续交付CD”，“IaaS (基础设施即服务)””，“PaaS (platformI服务)””，“SaaS (软件即服务)””，“配置管理””，“IaC ( Infrastructure as即代码)””，“Terraformrm”。
+## 结果
 
-This summary keeps the summary under concise and to the point pointunkt whileining on facts and key concepts discussed in the documentutern.
+I 容器化技术提高代码灵活性与可程序移植性性。
+I Kubernetes 提供自动化部署、扩展和和管理功能，改善了处理大规模容器化应用。
+I 持续集成确保了代码质量I减少上线风险。
+I 持续部署加快了软件交付速度I提高了生产效率。
+I 基础设施即代码实现了云基础设施的声明管制理I简化了云上服务器I操作。
+
+提高了资源管理效率。
+
+I 概念
+I DevOpsI容器I容器化I无缝部署I持续集成I持续部署I基础设施即服务I弹性伸缩I资源限制I零停机更新I代码库I代码评分I资源隔离I编程范式I声明式管理I自动化I有索无I域名解析I基础设施即代码I脚本语言I代码构建I环境I环境变量I命名空间I沙箱环境I控制组I弹性计算I基础设施 Ias Code Code基础设施即管理I声明式配置I基础设施I配置I声明性配置I云服务I云服务类型I模块化I集中件I配置管理I虚拟化I虚拟机I镜像I长启动I模块化开发I自动化部署I工作流I代码传递I构建构建I编译I库I配置文件I云上平台I资源分配I云集群I网络配置I负载均衡I一致性哈希I虚拟化IPaasaaSaaSI弹性伸缩I基础设施I代码更新I结合代码配置I网络隔离I内核I容器编排I更新策略

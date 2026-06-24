@@ -1,47 +1,42 @@
 ---
 source: raw\07-embedded-systems-and-iot\embedded_systems_iot.md
 source_type: article
-source_hash: sha256:88b3651edf192edc117d4682fb9a33c79b63eaae5c8a0a9a8c034d4922ee758c
-compiled_at: 2026-06-24T09:21:07Z
+source_hash: sha256:32d3cd4b1a360f881b7cb666363f9838dc81dabc34cd25bf94bb6228928a8da0
+compiled_at: 2026-06-24T09:39:32Z
 chunk_count: 1
 ---
 
 ## Key Claims
-- Embedded systemss are application-focused, located-computer systems base systemsded for specific applications with strictly defined requirements.
-- IoT integrates embedded devices networking for intelligent management.
-- MCU and otherfferent buses (e.g., UART, I2C, SPI) are used for communication and interfacing.
-- IoT architecture consists four layers: sensing, transmissiony, networking, platform, platform, and application.
-- Common IoT protocols includeikeinclude MQTT, CoAP, LoRaWAN, and NB-Io0.
-- Edge computing occurs at sidege devices for dataitialy processing and AI inference to reduceate bandwidth and response time.
-  
+- Embedded systemss design focuses on application-specific application and hardware integration.
+- IoT enables connectivity and intelligent management of embedded devices through network inter.
+- Resource constraints and performance optimization are crucial in embedded software development due to hardware constraints.
+-RTOSs improve embedded systemss provide hard real-time performance and minimal system overhead for complex logic.
+- IoT architecture includes four layers: sensing layer, network layer, platforming layer, and application layer.
+
 ## Methodology
-- Understanding of hardware and software integration, softwware development adresses these including MCU architecture, I onC, SPI, UART, and GPIO.
-- Primarily focuses on C/C++; R ncreasing nplemeentation of Reft for secuilty requirements.
-- RTOS deployment for complex logic management, (FreeRTOS, RT-Thread, VxWorks).
+- Description of the hardware and software techniques used covered.
+- Explanation of development languages, MCU, communication buses, protocols, GPIO, and softwareimentary systems.
+- Overview of embedded software development approaches, and real-time operating systems (RTOS) use cases.
 
 ## Results
-- IoT enables通过网络连接多样化嵌入式设备实现智能管理。
- - 嵌入式系统通过定制化硬件和软件高度优化处理能力。
- - IoT通信协议（如MQTT、CoAP、LoRaW和NB-Io0发挥作用。
- - 边缘计算在设备端进行初步数据处理和AI推理以降低延迟。
+- MCU are STM32, ESP32, and Arduino are mentioned as prominent examples of microcontrollers.
+- Common communication buses include IiC,SP1, UART are described described explained.
+- MQTT, CoAP, and over-the-air technologies Like LoRa WAT and NB—IIoT are are discussed as common examples IoT communication protocols.
+- Edge computing on embedded systemss is introduced as an approach to reduce network bandwidth and response latency.
 
 ## Concepts
-- Embedded systems
-- MCU
-   - STM32 (ARM Cortex-M)
-   - ESP32 (TensI)
-   - Arduino
-- UART
-- I onC
-- SPI
-- GPIO
-- Real-time operating system (RTOS
-   - FreeRTOS
-   - RT-Thread
-   - VxWorks
-- MQTT
-- CoAP
-- LoRaWPAN
-- NB-Io
-- Edge computing
-   - TinyML
+- Embedded system
+- Microcontroller (MCU)
+- Single-board computer (SBC)
+ - UART
+ - I2C
+ - SPI
+ - GPIO
+ - Real-time operating system (RTOS)
+ - FreeRTOS
+ - RT-Thread
+ - MQTT
+ - CoAP
+ - LoRa WAT
+ - NB—Iiot
+ - Edge computing

@@ -1,33 +1,21 @@
 ---
 source: raw\01-ai-and-machine-learning\ai_machine_learning.md
 source_type: article
-source_hash: sha256:29c56687a79ee5236a889ccac49262e273e703cd636920434316a8056f82e6db
-compiled_at: 2026-06-24T09:21:15Z
+source_hash: sha256:2f728c1bfc284143f97184b990870090a876903c7972111e348faa3b1e5332e9
+compiled_at: 2026-06-24T09:39:34Z
 chunk_count: 1
 ---
 
 ## Key claims
--/A
+-/A (The source document does does not provide specific claims arguments or findings.)
 
 ## Methodology
-N/A
+N/A (The econtent   does not describeeertaine intoexplain the methodologies oresNspecific techniques.)
 
 ## Results
-N/A
+N/AA (The econtentDDoes not    provideetergivenv anyre anyanyspecific res Gll Gresults G.)
 
 ## Concepts
-人工智能,机器学习́监督学习,分类�分类́回归́无监督学习́K-Meansans-Means斯聚类́主成分分析́人工神经网络́卷积神经网络́循环神经网络́Transformer架 G构́大语言模型́SFT（监督微调́RLHF（人类反馈强化学习́RAG（检索增吴生）́PythońPyT orch́TensorFloẃHugging FacéTransformers库́
+人工智能、机器学习、监督学习、分类分类、回归、无监督学习、聚类类、降维、人工神经网络 (ANN)、卷积神经网络 (CNN)、循环神经网络 (RNN)、长期短期记忆 (LSTM)、Transformer 架构、大语言模型 (LLLM)、预训练、微调 (SFT、RLHF)、检索增强生成 (RAG)、Python、PyTorch、TensorFlow、Hugging Face (Transformers库）。
 
-Note相关负责和技术的概念和技术栈描述如下：
-
-##Key claims
-N/A
-
-## Methodology
-N/A
-
-## Results
-N/A
-
-##Concepts
-人工智能,机器学习́监督学习́分类分类 任务分类G 任务回归G 任务无监督学习́ G任务聚类和任务降 M 降G � � � 传统机器学习́ G深 G 度深度学习́ G G 卷积神经网络́ D循环神经网络́ DTransformer架 G构́大语言模型́GPT́ G Claudé G Geminí G DeepSeeḱ SFT（监督微调át RLHFD 人类反馈强化学习́ R R R R GNG R R检索增 G生́G Pythoń G PyTorch́ G TensorFloẃ G H Hugging Facé GTransformersers库́
+*

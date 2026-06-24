@@ -50,3 +50,4 @@ sequenceDiagram
 ```
 
 *   **API 文档规范**：使用 Swagger 或 Apifox 来统一定义接口输入输出，这是前后端协作最关键的契约。
+

@@ -34,3 +34,4 @@
 *   **RESTful API**：基于 HTTP 协议，使用标准的 HTTP 方法（GET, POST, PUT, DELETE）操作资源。返回数据格式通常为 JSON。
 *   **GraphQL**：由 Facebook 开发的查询语言，允许客户端显式指定需要哪些数据，从而避免了 RESTful 接口中常见的“过度获取”（Over-fetching）或“获取不足”（Under-fetching）问题。
 *   **gRPC**：基于 HTTP/2 和 Protocol Buffers，多用于微服务架构内部的高性能 RPC（远程过程调用）通信。
+

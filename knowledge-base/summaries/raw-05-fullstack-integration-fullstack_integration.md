@@ -1,37 +1,35 @@
 ---
 source: raw\05-fullstack-integration\fullstack_integration.md
 source_type: article
-source_hash: sha256:601b8b6cd6f538ea9aafee5ed4347d6568a4487033e0b5fc80acbd0274273cac
-compiled_at: 2026-06-24T09:21:20Z
+source_hash: sha256:04da54424baf84157c4b95544f08a2c4a4c4e3e6e7cc7c580f25f50f7be23b3d
+compiled_at: 2026-06-24T09:39:38Z
 chunk_count: 1
 ---
 
 ## Key Claims
-- the integration process and methods implementation of full stack integration.
-- CORS must be handled for cross-origin requests in.
-- Modern authentication and authorization, including JWT, must be managed and implemented between frontend and backend.
-- A Proper API documentation using tools such as Swagger or.
-- A AStandardize development workflow with a clear sequence diagram to align frontend and backend teams efforts.
+- the relationship between front-end and back-end development, how the CORS solution and JWT for authentication.
 
 ## Methodology
- - Configuration of CORS on the backend.
- - Use of JWT for stateless authentication between the frontend.
- - Development and use of API documentation tools.
- - Workflow for full front-end and back-end integration.
+- The CORS solution to handle cross-origin requests.
+- SWAGGER/Apiffox/Apifox for API documentation.
+- JWT (JSON Web Token) for securing authenticating-end authentication.
 
 ## Results
- - CORS is enableded on the backend to allow for cross-origin requests from the frontend.
- - Authentication is achieved through JWT implementation on the frontend.
- - Standard processes and data expected between front-end and back-end teams are clarified.
- - API documentation is standardized using tools such as Swagger.
+- Front-end and back-end can be properlyly integrated through CORS configuration.
+- how standardized API documentation through Swagger/Apifox.
+- JWT facilitates state-state HTTP authentication by embedding tokens in front-end requests and validating them on the back-end.
 
 ## Concepts
- - CORS
- - JWT
- - HTTP Same-Origin Policy
- - API documentation
- - Mock server data
+- CORS
+- Same-Origin Policy
+ - JSONControl-Allow-Origin
+- LocalStorage
+ - JWT (JSON Web Token)
+ - http://Authorization Header
+ - Mock Data
  - Swagger
  - Apifox
- - LocalStorage
- - Cookies
+ - Full-stack integration
+ - API documentation
+ - HTTP requests and responses
+ - Backend and frontend development processes

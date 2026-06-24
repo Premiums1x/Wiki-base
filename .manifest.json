@@ -2,20 +2,20 @@
   "version": 2,
   "sources": {
     "raw\\01-ai-and-machine-learning\\ai_machine_learning.md": {
-      "hash": "sha256:29c56687a79ee5236a889ccac49262e273e703cd636920434316a8056f82e6db",
+      "hash": "sha256:2f728c1bfc284143f97184b990870090a876903c7972111e348faa3b1e5332e9",
       "type": "article",
       "size_bytes": 3082,
       "added_at": "2026-06-24T09:21:20Z",
-      "compiled_at": "2026-06-24T09:21:20Z",
+      "compiled_at": "2026-06-24T09:39:44Z",
       "summary_path": "knowledge-base\\summaries\\raw-01-ai-and-machine-learning-ai_machine_learning.md",
       "status": "compiled"
     },
     "raw\\02-data-science-and-bigdata\\data_science_bigdata.md": {
-      "hash": "sha256:8d8e8cf109e52fd4d41b303c2ea7831ee49c0ebc65f72c323172a6a9c805a03a",
+      "hash": "sha256:b4b361adee8b0e881766c8788391a479b313b426382c689fce304fb3a2f7ba66",
       "type": "article",
       "size_bytes": 2717,
       "added_at": "2026-06-24T09:21:20Z",
-      "compiled_at": "2026-06-24T09:21:20Z",
+      "compiled_at": "2026-06-24T09:39:43Z",
       "summary_path": "knowledge-base\\summaries\\raw-02-data-science-and-bigdata-data_science_bigdata.md",
       "status": "compiled"
     },
@@ -29,67 +29,123 @@
       "status": "compiled"
     },
     "raw\\04-backend-development\\backend_roadmap.md": {
-      "hash": "sha256:06ad79057bf0f2a355e2a22b1847ce54457bc1682f4704abda85680a2f0d077e",
+      "hash": "sha256:e7068e6d44b45049dad233b0ffc721cf56bbd4e3f93fae3ce482a2e1f60345cf",
       "type": "article",
       "size_bytes": 2244,
       "added_at": "2026-06-24T09:21:20Z",
-      "compiled_at": "2026-06-24T09:21:20Z",
+      "compiled_at": "2026-06-24T09:39:44Z",
       "summary_path": "knowledge-base\\summaries\\raw-04-backend-development-backend_roadmap.md",
       "status": "compiled"
     },
     "raw\\05-fullstack-integration\\fullstack_integration.md": {
-      "hash": "sha256:601b8b6cd6f538ea9aafee5ed4347d6568a4487033e0b5fc80acbd0274273cac",
+      "hash": "sha256:04da54424baf84157c4b95544f08a2c4a4c4e3e6e7cc7c580f25f50f7be23b3d",
       "type": "article",
       "size_bytes": 2308,
       "added_at": "2026-06-24T09:21:21Z",
-      "compiled_at": "2026-06-24T09:21:21Z",
+      "compiled_at": "2026-06-24T09:39:44Z",
       "summary_path": "knowledge-base\\summaries\\raw-05-fullstack-integration-fullstack_integration.md",
       "status": "compiled"
     },
     "raw\\06-mobile-development\\mobile_development.md": {
-      "hash": "sha256:2f27373a43920e243017e20493b8fbde8c5cc7715cfaef21185a5cbf933ba99e",
+      "hash": "sha256:ad6e39c0a0c90d46c2a905cf2aefeddc0fbec0c10935ceae5ae550ab14818db5",
       "type": "article",
       "size_bytes": 2710,
       "added_at": "2026-06-24T09:21:20Z",
-      "compiled_at": "2026-06-24T09:21:20Z",
+      "compiled_at": "2026-06-24T09:39:44Z",
       "summary_path": "knowledge-base\\summaries\\raw-06-mobile-development-mobile_development.md",
       "status": "compiled"
     },
     "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md": {
-      "hash": "sha256:88b3651edf192edc117d4682fb9a33c79b63eaae5c8a0a9a8c034d4922ee758c",
+      "hash": "sha256:32d3cd4b1a360f881b7cb666363f9838dc81dabc34cd25bf94bb6228928a8da0",
       "type": "article",
       "size_bytes": 2834,
       "added_at": "2026-06-24T09:21:20Z",
-      "compiled_at": "2026-06-24T09:21:20Z",
+      "compiled_at": "2026-06-24T09:39:44Z",
       "summary_path": "knowledge-base\\summaries\\raw-07-embedded-systems-and-iot-embedded_systems_iot.md",
       "status": "compiled"
     },
     "raw\\08-devops-and-cloud\\devops_cloud.md": {
-      "hash": "sha256:060fc44da931a106b3dda2e70b95a21037eccbf52960a4690551b36628fc75d0",
+      "hash": "sha256:bb8cbf980850d5983e6154ce30dfcdc964c694ab6c5341b09c2a532f4597a03c",
       "type": "article",
       "size_bytes": 2542,
       "added_at": "2026-06-24T09:21:20Z",
-      "compiled_at": "2026-06-24T09:21:20Z",
+      "compiled_at": "2026-06-24T09:39:44Z",
       "summary_path": "knowledge-base\\summaries\\raw-08-devops-and-cloud-devops_cloud.md",
       "status": "compiled"
     },
     "raw\\09-cybersecurity\\cybersecurity.md": {
-      "hash": "sha256:1b419638b2141e8bb80098c25b5065282871f4f5055edec43e5dc37f8a244692",
+      "hash": "sha256:664633e4b38a6b1d736abc0441d31094ba4b848bcd620f0157a9917fd222f0bb",
       "type": "article",
       "size_bytes": 2936,
       "added_at": "2026-06-24T09:21:20Z",
-      "compiled_at": "2026-06-24T09:21:20Z",
+      "compiled_at": "2026-06-24T09:39:44Z",
       "summary_path": "knowledge-base\\summaries\\raw-09-cybersecurity-cybersecurity.md",
       "status": "compiled"
     }
   },
   "concepts": {
+    "ai-aim-machine-learning": {
+      "article_path": "knowledge-base\\concepts\\ai-aim-machine-learning.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "api-documentation": {
+      "article_path": "knowledge-base\\concepts\\api-documentation.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "apifox": {
+      "article_path": "knowledge-base\\concepts\\apifox.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "arduino": {
+      "article_path": "knowledge-base\\concepts\\arduino.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "artificial-neural-network": {
+      "article_path": "knowledge-base\\concepts\\artificial-neural-network.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
     "async-programming": {
       "article_path": "knowledge-base\\concepts\\async-programming.md",
       "sources": [
         "raw\\03-frontend-development\\frontend_roadmap.md"
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "backend-and-frontend-development-processes": {
+      "article_path": "knowledge-base\\concepts\\backend-and-frontend-development-processes.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "big-data-engineering-architecture": {
+      "article_path": "knowledge-base\\concepts\\big-data-engineering-architecture.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "big-data-techniques": {
+      "article_path": "knowledge-base\\concepts\\big-data-techniques.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
     },
     "build-tools": {
       "article_path": "knowledge-base\\concepts\\build-tools.md",
@@ -98,12 +154,145 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "cd-continuous-deployment": {
+      "article_path": "knowledge-base\\concepts\\cd-continuous-deployment.md",
+      "sources": [
+        "raw\\08-devops-and-cloud\\devops_cloud.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "ci-continuous-integration": {
+      "article_path": "knowledge-base\\concepts\\ci-continuous-integration.md",
+      "sources": [
+        "raw\\08-devops-and-cloud\\devops_cloud.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "classification": {
+      "article_path": "knowledge-base\\concepts\\classification.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "clustering": {
+      "article_path": "knowledge-base\\concepts\\clustering.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "communication-buses-types": {
+      "article_path": "knowledge-base\\concepts\\communication-buses-types.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "containerization": {
+      "article_path": "knowledge-base\\concepts\\containerization.md",
+      "sources": [
+        "raw\\08-devops-and-cloud\\devops_cloud.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "convolutional-neural-network": {
+      "article_path": "knowledge-base\\concepts\\convolutional-neural-network.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "cors-cross-origin-request-handling": {
+      "article_path": "knowledge-base\\concepts\\cors-cross-origin-request-handling.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "csrf-cross-site-request-forgery": {
+      "article_path": "knowledge-base\\concepts\\csrf-cross-site-request-forgery.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
     "css3": {
       "article_path": "knowledge-base\\concepts\\css3.md",
       "sources": [
         "raw\\03-frontend-development\\frontend_roadmap.md"
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "data-analysis": {
+      "article_path": "knowledge-base\\concepts\\data-analysis.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "data-lake": {
+      "article_path": "knowledge-base\\concepts\\data-lake.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "data-science-is-cross-disciplinary": {
+      "article_path": "knowledge-base\\concepts\\data-science-is-cross-disciplinary.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "data-science-project-steps": {
+      "article_path": "knowledge-base\\concepts\\data-science-project-steps.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "data-warehouse": {
+      "article_path": "knowledge-base\\concepts\\data-warehouse.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "devops-is-a-set-of-processes-methods-and-systems": {
+      "article_path": "knowledge-base\\concepts\\devops-is-a-set-of-processes-methods-and-systems.md",
+      "sources": [
+        "raw\\08-devops-and-cloud\\devops_cloud.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "dimensionality-reduction": {
+      "article_path": "knowledge-base\\concepts\\dimensionality-reduction.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "docker": {
+      "article_path": "knowledge-base\\concepts\\docker.md",
+      "sources": [
+        "raw\\08-devops-and-cloud\\devops_cloud.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "embedded-system-design": {
+      "article_path": "knowledge-base\\concepts\\embedded-system-design.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "embedded-systems-development-techniques": {
+      "article_path": "knowledge-base\\concepts\\embedded-systems-development-techniques.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
     },
     "es6": {
       "article_path": "knowledge-base\\concepts\\es6.md",
@@ -119,6 +308,34 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "esp32": {
+      "article_path": "knowledge-base\\concepts\\esp32.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "exploratory-data-analysis": {
+      "article_path": "knowledge-base\\concepts\\exploratory-data-analysis.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "feature-engineering": {
+      "article_path": "knowledge-base\\concepts\\feature-engineering.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "finetuning": {
+      "article_path": "knowledge-base\\concepts\\finetuning.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
     "flexbox": {
       "article_path": "knowledge-base\\concepts\\flexbox.md",
       "sources": [
@@ -126,12 +343,54 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "fullstack-integration": {
+      "article_path": "knowledge-base\\concepts\\fullstack-integration.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "go-lang-high-efficiency-low-memory-occupation": {
+      "article_path": "knowledge-base\\concepts\\go-lang-high-efficiency-low-memory-occupation.md",
+      "sources": [
+        "raw\\04-backend-development\\backend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "graphql-data-retrieval-no-redundancy": {
+      "article_path": "knowledge-base\\concepts\\graphql-data-retrieval-no-redundancy.md",
+      "sources": [
+        "raw\\04-backend-development\\backend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
     "grid": {
       "article_path": "knowledge-base\\concepts\\grid.md",
       "sources": [
         "raw\\03-frontend-development\\frontend_roadmap.md"
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "grpc-high-performance-rpc-communication": {
+      "article_path": "knowledge-base\\concepts\\grpc-high-performance-rpc-communication.md",
+      "sources": [
+        "raw\\04-backend-development\\backend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "hadoop": {
+      "article_path": "knowledge-base\\concepts\\hadoop.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "hdfs": {
+      "article_path": "knowledge-base\\concepts\\hdfs.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
     },
     "hooks": {
       "article_path": "knowledge-base\\concepts\\hooks.md",
@@ -147,12 +406,222 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "http-authorization-header": {
+      "article_path": "knowledge-base\\concepts\\http-authorization-header.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "http-requests-responses": {
+      "article_path": "knowledge-base\\concepts\\http-requests-responses.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "https": {
+      "article_path": "knowledge-base\\concepts\\https.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "hugging-face-transformers": {
+      "article_path": "knowledge-base\\concepts\\hugging-face-transformers.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "iaac-infrastructure-as-code": {
+      "article_path": "knowledge-base\\concepts\\iaac-infrastructure-as-code.md",
+      "sources": [
+        "raw\\08-devops-and-cloud\\devops_cloud.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "iot-architecture": {
+      "article_path": "knowledge-base\\concepts\\iot-architecture.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "iot-enablement": {
+      "article_path": "knowledge-base\\concepts\\iot-enablement.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "java-ai-data-analysis-high-performance-systems": {
+      "article_path": "knowledge-base\\concepts\\java-ai-data-analysis-high-performance-systems.md",
+      "sources": [
+        "raw\\04-backend-development\\backend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "json-control-allow-origin": {
+      "article_path": "knowledge-base\\concepts\\json-control-allow-origin.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
     "jsx": {
       "article_path": "knowledge-base\\concepts\\jsx.md",
       "sources": [
         "raw\\03-frontend-development\\frontend_roadmap.md"
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "jupyter-notebook": {
+      "article_path": "knowledge-base\\concepts\\jupyter-notebook.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "jwt-json-web-token": {
+      "article_path": "knowledge-base\\concepts\\jwt-json-web-token.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "kubernetes": {
+      "article_path": "knowledge-base\\concepts\\kubernetes.md",
+      "sources": [
+        "raw\\08-devops-and-cloud\\devops_cloud.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "large-language-model": {
+      "article_path": "knowledge-base\\concepts\\large-language-model.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "localstorage": {
+      "article_path": "knowledge-base\\concepts\\localstorage.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "lstm-long-short-term-memory": {
+      "article_path": "knowledge-base\\concepts\\lstm-long-short-term-memory.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "mapreduce": {
+      "article_path": "knowledge-base\\concepts\\mapreduce.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "mock-data": {
+      "article_path": "knowledge-base\\concepts\\mock-data.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "model-training-and-assessment": {
+      "article_path": "knowledge-base\\concepts\\model-training-and-assessment.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "nodejs-high-concurrency-capability": {
+      "article_path": "knowledge-base\\concepts\\nodejs-high-concurrency-capability.md",
+      "sources": [
+        "raw\\04-backend-development\\backend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "nosql-database-flexible-schema-hd-scalability": {
+      "article_path": "knowledge-base\\concepts\\nosql-database-flexible-schema-hd-scalability.md",
+      "sources": [
+        "raw\\04-backend-development\\backend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "numpy": {
+      "article_path": "knowledge-base\\concepts\\numpy.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "one-way-hash-function": {
+      "article_path": "knowledge-base\\concepts\\one-way-hash-function.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "osi-model": {
+      "article_path": "knowledge-base\\concepts\\osi-model.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "pandas": {
+      "article_path": "knowledge-base\\concepts\\pandas.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "pretraining": {
+      "article_path": "knowledge-base\\concepts\\pretraining.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "python": {
+      "article_path": "knowledge-base\\concepts\\python.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "python-language": {
+      "article_path": "knowledge-base\\concepts\\python-language.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "python-pandas-numpy-jupyter-notebook-and-sql": {
+      "article_path": "knowledge-base\\concepts\\python-pandas-numpy-jupyter-notebook-and-sql.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "pytorch": {
+      "article_path": "knowledge-base\\concepts\\pytorch.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "rdd": {
+      "article_path": "knowledge-base\\concepts\\rdd.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
     },
     "react": {
       "article_path": "knowledge-base\\concepts\\react.md",
@@ -175,6 +644,55 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "recurrent-neural-network": {
+      "article_path": "knowledge-base\\concepts\\recurrent-neural-network.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "regression": {
+      "article_path": "knowledge-base\\concepts\\regression.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "resource-constraints-and-performance-optimization": {
+      "article_path": "knowledge-base\\concepts\\resource-constraints-and-performance-optimization.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "restful-api-http-standard-resource-oriented": {
+      "article_path": "knowledge-base\\concepts\\restful-api-http-standard-resource-oriented.md",
+      "sources": [
+        "raw\\04-backend-development\\backend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "retrieval-augmented-generation": {
+      "article_path": "knowledge-base\\concepts\\retrieval-augmented-generation.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "rtos-hard-real-time-performance": {
+      "article_path": "knowledge-base\\concepts\\rtos-hard-real-time-performance.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "same-origin-policy": {
+      "article_path": "knowledge-base\\concepts\\same-origin-policy.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
     "semantic-html": {
       "article_path": "knowledge-base\\concepts\\semantic-html.md",
       "sources": [
@@ -189,12 +707,82 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "sql": {
+      "article_path": "knowledge-base\\concepts\\sql.md",
+      "sources": [
+        "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "sql-database-high-consistency-business-case": {
+      "article_path": "knowledge-base\\concepts\\sql-database-high-consistency-business-case.md",
+      "sources": [
+        "raw\\04-backend-development\\backend_roadmap.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "sql-injection": {
+      "article_path": "knowledge-base\\concepts\\sql-injection.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
     "state-management": {
       "article_path": "knowledge-base\\concepts\\state-management.md",
       "sources": [
         "raw\\03-frontend-development\\frontend_roadmap.md"
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "stm32": {
+      "article_path": "knowledge-base\\concepts\\stm32.md",
+      "sources": [
+        "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "supervised-learning": {
+      "article_path": "knowledge-base\\concepts\\supervised-learning.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "swagger": {
+      "article_path": "knowledge-base\\concepts\\swagger.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\fullstack_integration.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "symmetric-encryption": {
+      "article_path": "knowledge-base\\concepts\\symmetric-encryption.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "tcpip-four-layer-model": {
+      "article_path": "knowledge-base\\concepts\\tcpip-four-layer-model.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "tensorflow": {
+      "article_path": "knowledge-base\\concepts\\tensorflow.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "transformer-architecture": {
+      "article_path": "knowledge-base\\concepts\\transformer-architecture.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
     },
     "typescript": {
       "article_path": "knowledge-base\\concepts\\typescript.md",
@@ -203,12 +791,33 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "unsupervised-learning": {
+      "article_path": "knowledge-base\\concepts\\unsupervised-learning.md",
+      "sources": [
+        "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
     "virtual-dom": {
       "article_path": "knowledge-base\\concepts\\virtual-dom.md",
       "sources": [
         "raw\\03-frontend-development\\frontend_roadmap.md"
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "web-development-security-against-attacks": {
+      "article_path": "knowledge-base\\concepts\\web-development-security-against-attacks.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "xss-cross-site-scripting": {
+      "article_path": "knowledge-base\\concepts\\xss-cross-site-scripting.md",
+      "sources": [
+        "raw\\09-cybersecurity\\cybersecurity.md"
+      ],
+      "last_compiled": "2026-06-24T09:41:17Z"
     }
   }
 }
