@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "34d2707f7dfb9356",
@@ -226,7 +225,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ef47c037f6c03457",
+  "active": "72ce53f1f72baca9",
   "lastOpenFiles": [
     "raw/09-cybersecurity/cybersecurity.md",
     "raw/08-devops-and-cloud/devops_cloud.md",
