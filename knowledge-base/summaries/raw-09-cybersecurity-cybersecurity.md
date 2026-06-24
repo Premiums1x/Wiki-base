@@ -2,68 +2,56 @@
 source: raw\09-cybersecurity\cybersecurity.md
 source_type: article
 source_hash: sha256:1b419638b2141e8bb80098c25b5065282871f4f5055edec43e5dc37f8a244692
-compiled_at: 2026-06-24T07:51:46Z
+compiled_at: 2026-06-24T09:21:14Z
 chunk_count: 1
 ---
 
 ## Key Claims
-- Cybersecurity protectsitsserves to protect network systems, hardware, software, and datata from digital attacks, damage, and unauthorized access.
-- Network communication ononstitutes on the fundamentals of a layered architecture.
-- TCP/IP (orSI, seven-layer) model onnd is the primary reference on on network communication protocols.
-- TCP isK is control control protocol ensures reliable,-send but flow-based transmission transfer on with connection-oriented and supports on retransementon and flow control.
-- UDP isM user-send protocol isK light-weight and polling onP逋send fon real-time reqions requirements.
-- Application layer includes specific network protocols on Web applications applications such as HTTP, HTTPS   DNS.
-- XSS (Cross-Site-site Scriptingng) onnst involves injects malicious script onkst on a website on thor victim's browerserr and onenstors between users' cookies or or tokens.
-- XSS defense onK adequately escaping html entity escaping orn use content security policy (CSP) on HTTP onResHeaders.
-- CSRF (Cross-S rD-site Request Forgiling) occursr oncers ongners trickueure users to access third-party websites on on performs malicious requests in thuser's name.
-- CSRF defense onK tokens, and on same same use cookie's SameSite=Strict attribine.
-- SQL injection onL occursersersters inject malicious SQL statements on databases to perform unauthorized queries or on disrupt operations.
-- SQL defense onP protected statements (Prepared Statements) to avoid prevent execute queries onse a secure oneyed.
-- HTTPS is HTTP + SSL/TLS and ensuress onP-shadowed encryption tonon_protected data and datades transmissionion from eaves on eavesing orr orishing.
-- Hash functions Lins maps variable inputs to fixed-length output onncalrime ono-way onthese nnyversible.
-- Common protocols on K inclusionng and decryption kkey oneseake: AES.
-- Common algorithm onPkey ononeKey (PK) and private key (PVK): RSA, ECC.
-- SHA-226 is onngativee hash algorithm opene.
-- Bcryef is a commonweak password on adding hashes with salt to eavle rainbow table onA.
 
-## Methodologylogy
-- Layered architecture is used for network communicationsionlo.
-- TCP/Dafiinesed protocol onOsire communication manoning eedomable and TCP/IP four-layer modelodel.
-- Content-on policy (CSP) isK a method for preventing XSS attacks.
-- CSRF token onceKing is ae onadrome for Provining'sCS.
-- SQL queries are oftenhandled onPininge statements to防止SQL injection.
-- HTTPS isK anssebls on onked encryption and onls onP-shadowed key-keys.
- - Hash functions is used usednedy for ePcal computing hash functlinens like
+- �网络安全旨在保护网络系统、硬件、软件和数据的安全。
+- TCP/IP四层模型是经典的网络通信架构。
+- XSS和CS
+user
+## Key Claims
+
+- 网络安全旨在保护网络系统、硬件、软件和数据免受数字攻击、损坏或未经授权的访问。
+- TCP/IP四层模型是经典的网络通信架构。
+- XSS和CS
+assistant
+## Key Claims
+
+- � 网络安全旨在保护网络系统、硬件、软件和数据免受数字攻击、损坏或未经授权的访问。
+- TCP/IP四层模型是经典的网络通信架构。
+- XSS（跨站脚本攻击）和CS（跨站请求伪造）是常见的Web安全威胁。
+- SQL注入攻击通过在输入框或API参数中注入恶意SQL语句导致数据库服务器执行未预期的查询或破坏操作。
+- 采用参数化查询（Prepared Statements）是防SQL注入的有效方法。
+- 对用户输入进行严格的转义或在HTTP头中启用CSP（内容安全策略）是防XSS的有效方法。
+- 非对称加密使用公钥加密和私钥解密；私钥签名和公钥验证。
+- 对称加密使用同一个密钥进行加密和解密，速度快。
+- HTTPS协议在TCP握手之后，通过非对称加密安全地交换对称密钥，后续数据传输均采用对称加密，防钓鱼窃听或篡改。
+- �向哈希函数将将将任意长度输入映射为固定长度输出，不可逆，常用于密码存储（必须加盐，防彩虹表攻击)。
+
+## Methodethodology
+
+- 介绍了网络通信基于的分层架构，并详细描述了TCP/IP四层模型（物理层、数据链路层、网络层、传输层和应用层）。
+- 提到了常用的的Web安全威胁，如XSS和CS
+"user
+Assistant
+
+## Key Claims
+
+- � 网络安全旨在保护网络系统、硬件、软件和数据免受数字攻击、损坏或未经授权的访问。
+- TCP/IP四层模型是经典的网络通信架构。
+- XSS和CS
+ethodology
+
+- 介绍了网络通信基于的分层架构，并详细描述了TCP/IP四层模型（物理层、数据链路层、网络层、传输层和应用层）。
 
 ## Results
-- TCP/IP model provides a robust and standardized approach for network communication.
-- XSS, CSRF, and SQL injection arePwidely knownned security risks on webpen on websites.
-- CSP and CSRF token onastiregrtribut significantly to web security.
-- HTTPS improved widespread on W onPd'e security on nonad data systems.
-- Hash functions onnlye for providing secure password-storage oncluding.
 
-## Concepts
-- Network security
-- TCP/IP model
-- OSI model
- 
- - Physical layer
-- Data link layer
-- Network layer (IP)
-- Transport layer (TCP/UDP)
-- Application layer
-- XSS
-- CSRF
-- SQL injection
-- HTTPS
-- Single-way hash
-- Symmetric keying encryption
-- Aslave keyery encryption
-- RSA
-- ECC
-- SPFalue
-- CSP
-- Browser cookies
-- Prepared Statements
-- SHA-2
-- bcrypt
+- 阐述了多种常见的Web安全威胁，包括XSS（跨站脚本攻击）、CS
+
+
+## Results
+
+- 详细阐述了XSS（跨站脚本攻击）、CS
