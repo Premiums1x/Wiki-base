@@ -6,31 +6,10 @@ project: my-wiki
 description: "sage-wiki project: my-wiki"
 
 sources:
-  - path: raw/01-ai-and-machine-learning
+  - path: raw/01-self-learning
     type: auto          # auto-detect from file extension
     watch: true
-  - path: raw/02-data-science-and-bigdata
-    type: auto
-    watch: true
-  - path: raw/03-frontend-development
-    type: auto
-    watch: true
-  - path: raw/04-backend-development
-    type: auto
-    watch: true
-  - path: raw/05-fullstack-integration
-    type: auto
-    watch: true
-  - path: raw/06-mobile-development
-    type: auto
-    watch: true
-  - path: raw/07-embedded-systems-and-iot
-    type: auto
-    watch: true
-  - path: raw/08-devops-and-cloud
-    type: auto
-    watch: true
-  - path: raw/09-cybersecurity
+  - path: raw/02-internship-experience
     type: auto
     watch: true
 
