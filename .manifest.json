@@ -46,6 +46,15 @@
       "summary_path": "knowledge-base\\summaries\\raw-04-backend-development-backend_roadmap.md",
       "status": "compiled"
     },
+    "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md": {
+      "hash": "sha256:4127ec0c1e85c22757a3eb78b4dffc2091142fc94b2fc50ba648b8f1b1959251",
+      "type": "article",
+      "size_bytes": 6231,
+      "added_at": "2026-06-26T07:00:34Z",
+      "compiled_at": "2026-06-26T07:00:34Z",
+      "summary_path": "knowledge-base\\summaries\\raw-05-fullstack-integration-developer_mindset_transition_ai_era.md",
+      "status": "compiled"
+    },
     "raw\\05-fullstack-integration\\fullstack_integration.md": {
       "hash": "sha256:04da54424baf84157c4b95544f08a2c4a4c4e3e6e7cc7c580f25f50f7be23b3d",
       "type": "article",
@@ -100,6 +109,13 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "analysis-paralysis": {
+      "article_path": "knowledge-base\\concepts\\analysis-paralysis.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
     "api-documentation": {
       "article_path": "knowledge-base\\concepts\\api-documentation.md",
       "sources": [
@@ -149,6 +165,13 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "beginner-programmers-struggles": {
+      "article_path": "knowledge-base\\concepts\\beginner-programmers-struggles.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
     "big-data-engineering-architecture": {
       "article_path": "knowledge-base\\concepts\\big-data-engineering-architecture.md",
       "sources": [
@@ -197,6 +220,13 @@
         "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "cognitive-overload": {
+      "article_path": "knowledge-base\\concepts\\cognitive-overload.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
     },
     "communication-buses-types": {
       "article_path": "knowledge-base\\concepts\\communication-buses-types.md",
@@ -351,6 +381,13 @@
         "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "engineering-thought": {
+      "article_path": "knowledge-base\\concepts\\engineering-thought.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
     },
     "error-handling-for-async-tasks": {
       "article_path": "knowledge-base\\concepts\\error-handling-for-async-tasks.md",
@@ -513,6 +550,13 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "imposter-syndrome": {
+      "article_path": "knowledge-base\\concepts\\imposter-syndrome.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
     "iot-architecture": {
       "article_path": "knowledge-base\\concepts\\iot-architecture.md",
       "sources": [
@@ -653,6 +697,13 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "perfectionism": {
+      "article_path": "knowledge-base\\concepts\\perfectionism.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
     "pretraining": {
       "article_path": "knowledge-base\\concepts\\pretraining.md",
       "sources": [
@@ -723,6 +774,13 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "refactoring": {
+      "article_path": "knowledge-base\\concepts\\refactoring.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
     "regression": {
       "article_path": "knowledge-base\\concepts\\regression.md",
       "sources": [
@@ -779,6 +837,13 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "skill-anxiety": {
+      "article_path": "knowledge-base\\concepts\\skill-anxiety.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
     "sql": {
       "article_path": "knowledge-base\\concepts\\sql.md",
       "sources": [
@@ -813,6 +878,20 @@
         "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "student-thought": {
+      "article_path": "knowledge-base\\concepts\\student-thought.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
+    "students-mind-to-engineers-mind": {
+      "article_path": "knowledge-base\\concepts\\students-mind-to-engineers-mind.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
     },
     "supervised-learning": {
       "article_path": "knowledge-base\\concepts\\supervised-learning.md",
@@ -870,6 +949,20 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "transition-programming-mindset": {
+      "article_path": "knowledge-base\\concepts\\transition-programming-mindset.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
+    "two-minute-race-rule": {
+      "article_path": "knowledge-base\\concepts\\two-minute-race-rule.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
+    },
     "typescript": {
       "article_path": "knowledge-base\\concepts\\typescript.md",
       "sources": [
@@ -897,6 +990,13 @@
         "raw\\03-frontend-development\\frontend_roadmap.md"
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
+    },
+    "waste-not-the-wasted-time": {
+      "article_path": "knowledge-base\\concepts\\waste-not-the-wasted-time.md",
+      "sources": [
+        "raw\\05-fullstack-integration\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:01:16Z"
     },
     "web-development-security-against-attacks": {
       "article_path": "knowledge-base\\concepts\\web-development-security-against-attacks.md",
