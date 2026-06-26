@@ -1,5 +1,158 @@
 {
   "version": 2,
-  "sources": {},
-  "concepts": {}
+  "sources": {
+    "raw\\01-self-learning\\async_task_queue_case_study.md": {
+      "hash": "sha256:43700d0013f0434a8c256df7381984edf9325f810095356a3d466533f0be7519",
+      "type": "article",
+      "size_bytes": 7382,
+      "added_at": "2026-06-26T07:13:47Z",
+      "compiled_at": "2026-06-26T07:13:47Z",
+      "summary_path": "knowledge-base\\summaries\\raw-01-self-learning-async_task_queue_case_study.md",
+      "status": "compiled"
+    },
+    "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md": {
+      "hash": "sha256:4127ec0c1e85c22757a3eb78b4dffc2091142fc94b2fc50ba648b8f1b1959251",
+      "type": "article",
+      "size_bytes": 6231,
+      "added_at": "2026-06-26T07:13:47Z",
+      "compiled_at": "2026-06-26T07:13:47Z",
+      "summary_path": "knowledge-base\\summaries\\raw-02-internship-experience-developer_mindset_transition_ai_era.md",
+      "status": "compiled"
+    }
+  },
+  "concepts": {
+    "async-error-handling": {
+      "article_path": "knowledge-base\\concepts\\async-error-handling.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "asynchronous-task-queue": {
+      "article_path": "knowledge-base\\concepts\\asynchronous-task-queue.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "barnany-retrospective": {
+      "article_path": "knowledge-base\\concepts\\barnany-retrospective.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "code-成就感": {
+      "article_path": "knowledge-base\\concepts\\code-成就感.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "concurrent-control": {
+      "article_path": "knowledge-base\\concepts\\concurrent-control.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "driver-navigator-model": {
+      "article_path": "knowledge-base\\concepts\\driver-navigator-model.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "engineering-thinking": {
+      "article_path": "knowledge-base\\concepts\\engineering-thinking.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "impostor-syndrome": {
+      "article_path": "knowledge-base\\concepts\\impostor-syndrome.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "maximum-concurrency-control": {
+      "article_path": "knowledge-base\\concepts\\maximum-concurrency-control.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "queue-status-handling": {
+      "article_path": "knowledge-base\\concepts\\queue-status-handling.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "recursive-driven-architecture": {
+      "article_path": "knowledge-base\\concepts\\recursive-driven-architecture.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "shift-safe-consumption": {
+      "article_path": "knowledge-base\\concepts\\shift-safe-consumption.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "shitty-first-draft": {
+      "article_path": "knowledge-base\\concepts\\shitty-first-draft.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "silent-ignorance-of-failure": {
+      "article_path": "knowledge-base\\concepts\\silent-ignorance-of-failure.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "student-thinking": {
+      "article_path": "knowledge-base\\concepts\\student-thinking.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "training-new-mindset": {
+      "article_path": "knowledge-base\\concepts\\training-new-mindset.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "try-catch-block": {
+      "article_path": "knowledge-base\\concepts\\try-catch-block.md",
+      "sources": [
+        "raw\\01-self-learning\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "two-minute-rule": {
+      "article_path": "knowledge-base\\concepts\\two-minute-rule.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    },
+    "workload-relief": {
+      "article_path": "knowledge-base\\concepts\\workload-relief.md",
+      "sources": [
+        "raw\\02-internship-experience\\developer_mindset_transition_ai_era.md"
+      ],
+      "last_compiled": "2026-06-26T07:14:17Z"
+    }
+  }
 }
