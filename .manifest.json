@@ -19,6 +19,15 @@
       "summary_path": "knowledge-base\\summaries\\raw-02-data-science-and-bigdata-data_science_bigdata.md",
       "status": "compiled"
     },
+    "raw\\03-frontend-development\\async_task_queue_case_study.md": {
+      "hash": "sha256:43700d0013f0434a8c256df7381984edf9325f810095356a3d466533f0be7519",
+      "type": "article",
+      "size_bytes": 7382,
+      "added_at": "2026-06-26T06:18:28Z",
+      "compiled_at": "2026-06-26T06:18:28Z",
+      "summary_path": "knowledge-base\\summaries\\raw-03-frontend-development-async_task_queue_case_study.md",
+      "status": "compiled"
+    },
     "raw\\03-frontend-development\\frontend_roadmap.md": {
       "hash": "sha256:219f354ed2b0522e8f037f1b6b5ccfaf2c2f0780dcd4d5b22ca53504d48e1dc0",
       "type": "article",
@@ -126,6 +135,13 @@
       ],
       "last_compiled": "2026-06-24T09:33:26Z"
     },
+    "async-task-queue": {
+      "article_path": "knowledge-base\\concepts\\async-task-queue.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
+    },
     "backend-and-frontend-development-processes": {
       "article_path": "knowledge-base\\concepts\\backend-and-frontend-development-processes.md",
       "sources": [
@@ -189,6 +205,34 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "compensating-transaction": {
+      "article_path": "knowledge-base\\concepts\\compensating-transaction.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
+    },
+    "concurrency-limitation": {
+      "article_path": "knowledge-base\\concepts\\concurrency-limitation.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
+    },
+    "concurrent-task-management": {
+      "article_path": "knowledge-base\\concepts\\concurrent-task-management.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
+    },
+    "consistent-tasks-operations": {
+      "article_path": "knowledge-base\\concepts\\consistent-tasks-operations.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
+    },
     "containerization": {
       "article_path": "knowledge-base\\concepts\\containerization.md",
       "sources": [
@@ -202,6 +246,13 @@
         "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "correctness-of-functions": {
+      "article_path": "knowledge-base\\concepts\\correctness-of-functions.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
     },
     "cors-cross-origin-request-handling": {
       "article_path": "knowledge-base\\concepts\\cors-cross-origin-request-handling.md",
@@ -280,6 +331,13 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "efficient-implementation-of-async-task-queue": {
+      "article_path": "knowledge-base\\concepts\\efficient-implementation-of-async-task-queue.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
+    },
     "embedded-system-design": {
       "article_path": "knowledge-base\\concepts\\embedded-system-design.md",
       "sources": [
@@ -293,6 +351,13 @@
         "raw\\07-embedded-systems-and-iot\\embedded_systems_iot.md"
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "error-handling-for-async-tasks": {
+      "article_path": "knowledge-base\\concepts\\error-handling-for-async-tasks.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
     },
     "es6": {
       "article_path": "knowledge-base\\concepts\\es6.md",
@@ -328,6 +393,13 @@
         "raw\\02-data-science-and-bigdata\\data_science_bigdata.md"
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "fifo-queue": {
+      "article_path": "knowledge-base\\concepts\\fifo-queue.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_caseStudy.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
     },
     "finetuning": {
       "article_path": "knowledge-base\\concepts\\finetuning.md",
@@ -763,6 +835,20 @@
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
     },
+    "task-queue-management": {
+      "article_path": "knowledge-base\\concepts\\task-queue-management.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
+    },
+    "task-retry-mechanism": {
+      "article_path": "knowledge-base\\concepts\\task-retry-mechanism.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
+    },
     "tcpip-four-layer-model": {
       "article_path": "knowledge-base\\concepts\\tcpip-four-layer-model.md",
       "sources": [
@@ -797,6 +883,13 @@
         "raw\\01-ai-and-machine-learning\\ai_machine_learning.md"
       ],
       "last_compiled": "2026-06-24T09:41:17Z"
+    },
+    "version-control": {
+      "article_path": "knowledge-base\\concepts\\version-control.md",
+      "sources": [
+        "raw\\03-frontend-development\\async_task_queue_case_study.md"
+      ],
+      "last_compiled": "2026-06-26T06:18:59Z"
     },
     "virtual-dom": {
       "article_path": "knowledge-base\\concepts\\virtual-dom.md",

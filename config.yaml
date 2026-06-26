@@ -64,6 +64,7 @@ models:
 embed:
   provider: openai        # auto, openai, gemini, ollama, voyage, mistral
   model: BAAI/bge-m3              # override model (e.g., text-embedding-3-small)
+  dimensions: 1024
   # api_key:            # separate API key for embeddings
   # base_url:           # separate endpoint for embeddings
 

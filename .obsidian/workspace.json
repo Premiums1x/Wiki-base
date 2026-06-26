@@ -6,7 +6,6 @@
       {
         "id": "87c06e1d2f6ea22a",
         "type": "tabs",
-        "dimension": 74.35897435897436,
         "children": [
           {
             "id": "72ce53f1f72baca9",
@@ -16,52 +15,7 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "关系图谱"
-            },
-            "group": "4be788516935de4e"
-          }
-        ]
-      },
-      {
-        "id": "5bd1f2087dab3127",
-        "type": "tabs",
-        "dimension": 25.64102564102564,
-        "children": [
-          {
-            "id": "ef47c037f6c03457",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.25883865621816216,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            },
-            "group": "4be788516935de4e"
+            }
           }
         ]
       }
