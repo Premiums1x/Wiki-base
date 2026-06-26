@@ -4,6 +4,7 @@
 version: 1
 project: my-wiki
 description: "sage-wiki project: my-wiki"
+language: "中文"
 
 sources:
   - path: raw/01-self-learning

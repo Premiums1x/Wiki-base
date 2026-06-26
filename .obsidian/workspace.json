@@ -11,10 +11,14 @@
             "id": "72ce53f1f72baca9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-base/concepts/impersonation-syndrome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "impersonation-syndrome"
             }
           }
         ]
@@ -181,6 +185,7 @@
   },
   "active": "72ce53f1f72baca9",
   "lastOpenFiles": [
+    "knowledge-base/CHANGELOG.md",
     "knowledge-base/concepts/shitty-first-draft.md",
     "knowledge-base/concepts/impersonation-syndrome.md",
     "knowledge-base/concepts/two-minute-rule.md",
@@ -211,7 +216,6 @@
     "knowledge-base/concepts/imposter-syndrome.md",
     "knowledge-base/concepts/skill-anxiety.md",
     "knowledge-base/concepts/student-thought.md",
-    "knowledge-base/concepts/transition-programming-mindset.md",
     "raw/09-cybersecurity",
     "raw/08-devops-and-cloud",
     "raw/07-embedded-systems-and-iot",
