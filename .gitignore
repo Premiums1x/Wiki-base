@@ -1,1 +1,28 @@
+# Go binaries & temporary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+sage-wiki
+
+# Node.js (Frontend)
+web/node_modules/
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+
+# IDEs and OS files
+.idea/
+.vscode/
+*.suo
+*.ntvsca*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Project specific
 .sage/
